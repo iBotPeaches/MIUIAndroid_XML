@@ -1641,6 +1641,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="virus_scan_app_stop_scan">Stop Scan</string>
   <string name="virus_scan_app_uninstall">Batch uninstall (%d)</string>
   <string name="virus_scan_app_waiting">Waiting for</string>
+  <string name="virus_scanner_kinsoft_provider">Security support provided by Kingsoft Phone Guardian</string>
   <string name="virus_scanner_scan">Scan now</string>
   <string name="virus_scanner_scanning">Check apps for viruses</string>
   <string name="virus_scanner_select_Cancel">Cancel</string>

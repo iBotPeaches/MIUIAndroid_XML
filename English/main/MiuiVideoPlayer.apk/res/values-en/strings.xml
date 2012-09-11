@@ -23,6 +23,7 @@
   <string name="menu_item_orientation_auto_sensor_action">Enable Rotation</string>
   <string name="menu_item_orientation_fixed_by_videosize_action">Disable Rotation</string>
   <string name="menu_item_screen_shot">Screenshots</string>
+  <string name="menu_item_sub_title">Sub titles</string>
   <string name="menu_item_switch_width_height_label">Switch aspect ratio</string>
   <string name="menu_wh_item_adapt_height_label">Fit height</string>
   <string name="menu_wh_item_adapt_width_label">Fit width</string>
@@ -30,7 +31,12 @@
   <string name="menu_wh_item_full_screen_label">Full screen</string>
   <string name="menu_wh_item_using_16_9_label">16:9 ratio</string>
   <string name="menu_wh_item_using_4_3_label">4:3 ratio</string>
+  <string name="temp_play_history_button_label">Show player history</string>
   <string name="toast_back_key_pressed_notice">Press back key again to exit.</string>
+  <string name="toast_message_continue_play_from">Continue playing from</string>
+  <string name="toast_message_continue_play_hour">hours</string>
+  <string name="toast_message_continue_play_minute">mins</string>
+  <string name="toast_message_continue_play_second_and_play">secs</string>
   <string name="video_info_audio_bitrate_label">Audio bitrate:</string>
   <string name="video_info_audio_coding_label">Audio encoding format:</string>
   <string name="video_info_audio_null">None</string>

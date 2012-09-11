@@ -77,6 +77,7 @@
   <string name="micloud_val_sms_alert">An SMS will be sent to validate your phone number, continue?</string>
   <string name="micloud_waiting">Waiting...</string>
   <string name="micloud_welcome_banner">Xiaomi Account</string>
+  <string name="micloud_welcome_skip_login" />
   <string name="next">Next</string>
   <string name="no_sim">SIM card not found, unable to synchronise</string>
   <string name="other_settings">Other settings</string>
