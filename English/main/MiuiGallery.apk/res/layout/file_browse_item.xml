@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingRight="@dimen/file_explorer_list_margin_right" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center" android:layout_gravity="center" android:id="@id/preview_region" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.miui.gallery.StorageExplorer.AutoFitImageView android:id="@id/preview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    </FrameLayout>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/file_info_layout" android:paddingLeft="13.329987dip" android:paddingRight="13.329987dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:id="@id/file_name" style="@style/ItemPrimaryText" />
+        <TextView android:id="@id/file_extra_info" style="@style/ItemSecondaryText" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="center" android:id="@id/fav_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="6.659973dip" android:src="@drawable/star_select" />
+    <CheckBox android:id="@android:id/checkbox" android:visibility="gone" style="@style/BatchSelectionCheckBoxStyle" />
+</LinearLayout>
