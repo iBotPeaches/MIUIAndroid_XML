@@ -279,6 +279,7 @@
   <string name="groupsLabel">Groups</string>
   <string name="hint_findContacts">Find contacts</string>
   <string formatted="false" name="hint_search_contacts">%d contacts</string>
+  <string name="hint_search_phone_numbers">%d contact phone numbers</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
   <string name="import_all_vcard_string">Import all vCard files</string>

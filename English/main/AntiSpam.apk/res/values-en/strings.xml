@@ -113,6 +113,11 @@
   <string name="opt_reject_blacklist_stranger">Reject unknown callers</string>
   <string name="opt_reject_blacklist_stranger_summary">Calls will be rejected from blacklist but allowed from whitelist</string>
   <string name="remove">Remove</string>
+  <string name="remove_call_log">Delete all call logs?</string>
+  <string name="remove_contact">Delete the selected contact?</string>
+  <string name="remove_delete">Delete</string>
+  <string name="remove_inf">Delete selected information?</string>
+  <string name="remove_sms">Delete all message logs?</string>
   <string name="save_button">Save</string>
   <string name="show_firewall_notification">Show firewall notifications</string>
   <string name="show_notification">Show notifications</string>

@@ -18,6 +18,7 @@
   <string name="error_app_internal">Internal application error</string>
   <string name="error_mediadb_new_record">Unable to save recorded audio</string>
   <string name="error_sdcard_access">Unable to access external or internal storage</string>
+  <string name="fm_record">FM recording (%d)</string>
   <string formatted="false" name="hour">%d hour(s)</string>
   <string name="insert_sd_card">SD card is required</string>
   <string name="mark_now">(Current)</string>

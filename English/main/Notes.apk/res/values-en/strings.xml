@@ -64,6 +64,7 @@
   <string name="menu_setting">Settings</string>
   <string name="menu_share">Share</string>
   <string name="menu_title_select_folder">Select folder</string>
+  <string name="move_to_parent">Move to parent folder</string>
   <string name="note_alert_expired">Expired</string>
   <string name="note_link_email">Send E-mail</string>
   <string name="note_link_other">Open Map</string>
