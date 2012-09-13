@@ -7,6 +7,7 @@
   <string name="alert_message_delete_notes">Confirm to delete the selected %d notes?</string>
   <string name="alert_title_delete">Delete selected notes</string>
   <string name="app_name">Notes</string>
+  <string name="app_widget">Notes</string>
   <string name="app_widget2x2">Notes 2x2</string>
   <string name="app_widget4x4">Notes 4x4</string>
   <string name="attachment_camera">Camera</string>

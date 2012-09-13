@@ -5153,6 +5153,8 @@
     <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
     <item type="array" name="android_config_longPressVibePattern">@android:array/config_longPressVibePattern</item>
     <item type="array" name="android_config_keyboardTapVibePattern">@android:array/config_keyboardTapVibePattern</item>
+    <item type="array" name="android_special_locale_names">@*android:array/special_locale_names</item>
+    <item type="array" name="android_special_locale_codes">@*android:array/special_locale_codes</item>
     <integer-array name="detailed_am_pm_segments">
         <item>0</item>
         <item>1</item>
