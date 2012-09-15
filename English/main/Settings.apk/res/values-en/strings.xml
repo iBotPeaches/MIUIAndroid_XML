@@ -628,6 +628,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Battery Status, battery level, etc.</string>
+  <string name="dialog_title_entryvalues_dolby_control">Dolby control</string>
   <string name="dialog_title_font_size">Font size</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Disable HW overlays</string>
@@ -1453,6 +1454,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="time_picker_title">Time</string>
   <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">Timezone Settings</string>
+  <string name="title_dolby_control">Dolby control</string>
   <string name="title_font_size">Font size</string>
   <string name="total_size">%s (total)</string>
   <string name="total_size_label">Total</string>

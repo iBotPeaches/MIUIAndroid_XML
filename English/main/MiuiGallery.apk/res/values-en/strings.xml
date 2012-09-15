@@ -79,6 +79,8 @@
   <string name="error_should_not_select_video">Warning: please do not select a video file.</string>
   <string name="expand_album_in_home_page">Expand album in home page</string>
   <string name="exposure_time">Exposure time</string>
+  <string name="external_sd_card">SD card</string>
+  <string name="external_usb_device">USB device</string>
   <string name="facelift">Face Glow</string>
   <string name="facetan">Face Tan</string>
   <string name="fail_init_gallery_db_helper">Closed application, failed to open gallery database; disk is full.</string>
@@ -119,11 +121,13 @@
   <string name="how_many_pics">%d Photos</string>
   <string name="how_many_sub_folders">%d Folders</string>
   <string name="how_many_videos">%d Videos</string>
+  <string name="how_many_volumes">%d storage devices</string>
   <string name="image_property">Photo properties</string>
   <string name="import_complete">Import complete</string>
   <string name="import_fail">Import unsuccessful</string>
   <string name="internal_camera_folder_display_name">Internal Camera Photos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Internal Screenshots</string>
+  <string name="internal_sd_card">Internal SD card</string>
   <string name="iso">ISO</string>
   <string name="loading">Loading...</string>
   <string name="loading_account">Loading account...</string>
@@ -266,6 +270,7 @@
   <string name="slideshow_interval_dialog_title">Slideshow time interval must be greater than 0 seconds</string>
   <string name="slideshow_interval_invalid">Invalid time interval setting, must be between 1 and 3600. Default time interval will now be used</string>
   <string name="slideshow_repeat_mode">Repeat</string>
+  <string name="storage_all_volumes">All storage devices</string>
   <string name="straighten">Straighten</string>
   <string name="straighten_tooltip">Drag photo to straighten it</string>
   <string name="switch_to_camera">Switch to Camera</string>
