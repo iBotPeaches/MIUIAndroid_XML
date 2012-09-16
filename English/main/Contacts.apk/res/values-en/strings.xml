@@ -331,7 +331,7 @@
   <string name="local_profile_title">My local profile</string>
   <string name="local_search_label">All contacts</string>
   <string name="locale_change_in_progress">Contact list is being updated to reflect the change of language.</string>
-  <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
+  <string name="lunarBirthdayLabelsGroup">Birthday</string>
   <string name="make_primary">Remember this choice</string>
   <string formatted="false" name="map_custom">View %s address</string>
   <string name="map_home">View home address</string>
