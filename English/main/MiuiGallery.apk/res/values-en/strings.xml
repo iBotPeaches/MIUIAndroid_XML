@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Import</string>
-  <string name="account_not_login">You can login to your Xiaomi account and sync to your cloud. This will automatically upload mobile pictures to cloud management for easier convenience.</string>
+  <string name="account_not_login">You can login to your Xiaomi account and sync your data to MiCloud</string>
   <string name="activity_not_found">No app is available to complete the action.</string>
   <string name="add_account">Add account</string>
   <string name="add_bookmark">Add to Favorites</string>
@@ -136,9 +136,9 @@
   <string name="loading_failure">Photo cannot be loaded</string>
   <string name="loading_files">Loading...</string>
   <string name="loading_image">Loading image...</string>
-  <string name="loading_thumbnail">Downloading thumbnail</string>
+  <string name="loading_thumbnail">Loading thumbnail...</string>
   <string name="loading_video">Loading video...</string>
-  <string name="loading_will_cost">Downloading images needs data usage</string>
+  <string name="loading_will_cost">Downloading images will use your data allowance</string>
   <string name="location">Location</string>
   <string name="locations">Locations</string>
   <string name="login_account">Login Xiaomi Account &amp; Sync</string>
