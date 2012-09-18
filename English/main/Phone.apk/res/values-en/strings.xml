@@ -97,6 +97,7 @@
   <string name="auto_retry_mode_title_miui">Auto Retry</string>
   <string name="autoip_miui">Auto IP dialing</string>
   <string name="autoip_sum_miui">Add IP prefix to a foreign number. Enter current area code below.</string>
+  <string name="back_miui">Back</string>
   <string name="badPin">The old PIN you typed is not correct. Please try again.</string>
   <string name="badPin2">The old PIN2 you typed is not correct. Please try again.</string>
   <string name="badPuk">Incorrect PUK code!</string>

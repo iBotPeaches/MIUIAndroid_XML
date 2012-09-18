@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Import</string>
+  <string name="account_not_login">You can login to your Xiaomi account and sync to your cloud. This will automatically upload mobile pictures to cloud management for easier convenience.</string>
   <string name="activity_not_found">No app is available to complete the action.</string>
   <string name="add_account">Add account</string>
   <string name="add_bookmark">Add to Favorites</string>
   <string name="albums">Albums</string>
   <string name="alert">Notice</string>
+  <string name="alert_message_initial_cloud">The system will automatically upload old and new photos and screenshots only when there is a Wi-Fi connection.</string>
   <string name="alert_message_sync_histoy_power_on">By default, history images are synchronized only when charging. You can use Setting menu to change the option.</string>
   <string name="all_album">All</string>
   <string name="all_albums_desc">Album(s)</string>
@@ -134,9 +136,12 @@
   <string name="loading_failure">Photo cannot be loaded</string>
   <string name="loading_files">Loading...</string>
   <string name="loading_image">Loading image...</string>
+  <string name="loading_thumbnail">Downloading thumbnail</string>
   <string name="loading_video">Loading video...</string>
+  <string name="loading_will_cost">Downloading images needs data usage</string>
   <string name="location">Location</string>
   <string name="locations">Locations</string>
+  <string name="login_account">Login Xiaomi Account &amp; Sync</string>
   <string name="lomoish">Lomo</string>
   <string name="make_available_offline">Make available offline</string>
   <string name="maker">Maker</string>
@@ -179,6 +184,7 @@
   <string name="not_auto_create_recent_album">Not auto create recent album(s)</string>
   <string name="open_map">Open map</string>
   <string name="open_single_image_failure">Failed to open image file!</string>
+  <string name="open_sync">Sync Now</string>
   <string name="operation_cancel">Cancel</string>
   <string name="operation_delete">Delete</string>
   <string name="operation_info">Details</string>
@@ -279,6 +285,7 @@
   <string name="sync_album_set_error">Failed to download the list of albums. Please retry later.</string>
   <string name="sync_history_power_on">Sync when charging</string>
   <string name="sync_history_power_on_summary">Enable, to reserve battery power when not charging.</string>
+  <string name="sync_not_open">You can sync your mobile pictures to the cloud automatically for easier convenience.</string>
   <string name="sync_only_in_wifi">Wi-Fi only</string>
   <string name="sync_only_in_wifi_summary">Recommended to enable, otherwise it will consume network traffic.</string>
   <string name="sync_picasa_albums">Refresh</string>

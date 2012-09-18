@@ -1052,6 +1052,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="power_cell">Cell standby</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_key">Power button</string>
+  <string name="power_mode">Power Mode</string>
   <string name="power_phone">Voice calls</string>
   <string name="power_screen">Screen</string>
   <string name="power_usage_history">Battery usage</string>
@@ -1707,6 +1708,14 @@ Some apps may not work until updated by their developers."</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
   <string name="wallpaper_settings_fragment_title">Choose wallpaper from</string>
   <string name="wallpaper_settings_title">Wallpaper</string>
+  <string name="wfd_available_devices">Available devices</string>
+  <string name="wfd_disconnect_diag_msg">If you break Wi-Fi Display session, your connection with %1$s will end.</string>
+  <string name="wfd_disconnect_diag_title">Tear down session?</string>
+  <string name="wfd_disconnect_multiple_diag_message">If you break Wi-Fi Display session, your connection with %1$s and %2$s other devices will end.</string>
+  <string name="wfd_menu_search">Search for devices</string>
+  <string name="wfd_menu_searching">Searching…</string>
+  <string name="wfd_menu_teardown">Teardown</string>
+  <string name="wfd_settings_title">Wi-Fi Display</string>
   <string name="widget_picker_title">Choose widget</string>
   <string name="wifi_access_points">Wi-Fi networks</string>
   <string name="wifi_add_network">Add network</string>
@@ -1764,6 +1773,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="wifi_menu_modify">Modify network</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
   <string name="wifi_menu_scan">Scan</string>
+  <string name="wifi_menu_wfd">Wi-Fi Display</string>
   <string name="wifi_menu_wps_pbc">WPS Push Button</string>
   <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
   <string name="wifi_more">More</string>
