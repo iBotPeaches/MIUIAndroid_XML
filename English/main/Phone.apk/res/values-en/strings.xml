@@ -323,6 +323,11 @@
   <string name="dial_button_label">Dial</string>
   <string name="dial_emergency_empty_error">Call not sent, please dial an emergency number!</string>
   <string name="dial_emergency_error">Call not sent, %s is not an emergency number!</string>
+  <string name="dial_pad_touch_tone_default_miui">Default</string>
+  <string name="dial_pad_touch_tone_human_miui">Human voice</string>
+  <string name="dial_pad_touch_tone_miui">Dial Pad Touch Tones</string>
+  <string name="dial_pad_touch_tone_piano_miui">Piano sound</string>
+  <string name="dial_pad_touch_tone_setting_miui">Dial tone Settings</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_emptyListWorking">Loading…</string>
   <string name="disable">Disable</string>

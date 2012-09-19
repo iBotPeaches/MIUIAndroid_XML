@@ -97,6 +97,7 @@
   <string name="auto_retry_mode_title_miui">Auto Retry</string>
   <string name="autoip_miui">Auto IP dialing</string>
   <string name="autoip_sum_miui">Add IP prefix to a foreign number. Enter current area code below.</string>
+  <string name="back_miui">Back</string>
   <string name="badPin">The old PIN you typed is not correct. Please try again.</string>
   <string name="badPin2">The old PIN2 you typed is not correct. Please try again.</string>
   <string name="badPuk">Incorrect PUK code!</string>
@@ -358,6 +359,11 @@
   <string name="dial_button_label">Dial</string>
   <string name="dial_emergency_empty_error">Call not sent, please dial an emergency number!</string>
   <string name="dial_emergency_error">Call not sent, %s is not an emergency number!</string>
+  <string name="dial_pad_touch_tone_default_miui">Default</string>
+  <string name="dial_pad_touch_tone_human_miui">Human voice</string>
+  <string name="dial_pad_touch_tone_miui">Dial Pad Touch Tones</string>
+  <string name="dial_pad_touch_tone_piano_miui">Piano sound</string>
+  <string name="dial_pad_touch_tone_setting_miui">Dial tone Settings</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_emptyListWorking">Loading…</string>
   <string name="disable">Disable</string>
