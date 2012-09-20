@@ -114,5 +114,10 @@
   <string name="title_login">Login to your Xiaomi account</string>
   <string name="title_reg">Register Xiaomi account</string>
   <string name="unactivated_user">Unactivated</string>
+  <string name="user_agreement_p1">"By signing in, you are agreeing to the "</string>
+  <string name="user_agreement_p2">Xiaomi Terms of Service</string>
+  <string name="user_agreement_p3"> and </string>
+  <string name="user_agreement_p4">Privacy Policy</string>
+  <string name="user_agreement_p5">"By signing up, you are agreeing to the "</string>
   <string name="xmpp_server_addr" />
 </resources>

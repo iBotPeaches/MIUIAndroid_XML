@@ -24,6 +24,8 @@
   <string name="compress_title">Compress</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
+  <string name="copy_failed">Failed to copy</string>
+  <string name="copy_success">Copied successfully</string>
   <string name="create_new_folder_failed">Failed to create folder %1$s</string>
   <string name="create_new_folder_succeeded">Created folder %1$s successfully</string>
   <string name="cution">Tips</string>
@@ -80,6 +82,8 @@
   <string name="instruction">Enter the following address into your FTP Client:</string>
   <string name="instruction_pre">Start service to enable FTP server</string>
   <string name="kuaipan_over_space">Your MiDrive has no space left.</string>
+  <string name="kuaipan_prompt">MiDrive Help</string>
+  <string name="kuaipan_prompt_message">"The server is currently unavailable, please try again later"</string>
   <string name="kuaipan_tech_support">Technical support provided by Kingsoft Kuaipan</string>
   <string name="local_cache">Local cache</string>
   <string name="local_cache_size">Local cache size: %s</string>
@@ -92,6 +96,8 @@
   <string name="menu_item_sort_name">Name</string>
   <string name="menu_item_sort_size">Size</string>
   <string name="menu_item_sort_type">Type</string>
+  <string name="move_failed">Failed to move</string>
+  <string name="move_success">Successfully moved</string>
   <string name="multi_select_title">Selected %1$s item(s)</string>
   <string name="net_lose_connected">Network not available, cannot get size</string>
   <string name="networkView_notConnected">No network available</string>

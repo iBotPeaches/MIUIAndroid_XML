@@ -175,10 +175,10 @@
   <string name="settings_expandable_under_keyguard_summary">only works for insecure lock screen</string>
   <string name="settings_expanded_view">Expanded notification view</string>
   <string name="settings_notification_icon">Notifications in status bar</string>
-  <string name="settings_screenshot_notification_disabled">Display Screenshot</string>
+  <string name="settings_screenshot_notification_disabled">Show Screenshot info</string>
   <string name="settings_separator">,</string>
   <string name="settings_show_flow_info">Show traffic info</string>
-  <string name="settings_show_network_speed">Display network speed</string>
+  <string name="settings_show_network_speed">Show network speed</string>
   <string name="settings_toggle">Toggles</string>
   <string name="settings_toggle_collapse_after_clicked">Collapse when clicked</string>
   <string name="settings_toggle_layout_style">Toggle layout style</string>
