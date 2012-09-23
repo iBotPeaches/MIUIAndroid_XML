@@ -37,6 +37,9 @@
   <string name="find_device_error_network">Network unavailable</string>
   <string name="find_device_error_server">Server error</string>
   <string name="find_device_notice">"When you cannot locate your phone, you can my.xiaomi.com to find, lock, or wipe data"</string>
+  <string name="find_device_notice_p1">When you have lost your phone, please visit</string>
+  <string name="find_device_notice_p2">i.xiaomi.com</string>
+  <string name="find_device_notice_p3">to find, lock it, or wipe the data</string>
   <string name="find_device_success_title">Locate device is enabled</string>
   <string name="forget_password" />
   <string name="header_data_and_synchronization">Data &amp; Sync</string>
@@ -90,8 +93,10 @@
   <string name="remove_account_notice">What would you like to do with the previously synced Messages, Contacts, Call logs, and notes on your device?</string>
   <string name="send_sms_for_sync_notice">An activation SMS will be sent, continue?</string>
   <string name="send_sms_for_sync_title">Sync service not activated</string>
-  <string name="sim_changed_notification_content">SIM unactivated, please reactivate</string>
+  <string name="sim_changed_notification_content">SIM card unactivated. Please reactivate</string>
   <string name="sim_changed_reactivate_notice">Current SIM is inactive. An SMS is required to activate the service, activate now?</string>
+  <string name="skip_setup_account_msg">Using your Xiaomi Account, you can synchronize and backup your SMS, Contacts, photos, notes, etc. Continue and setup later?</string>
+  <string name="skip_setup_account_title">Skip account setting</string>
   <string name="sub_sync_big_photo_item_summary">Recommended to enable, otherwise it will consume network traffic</string>
   <string name="sub_sync_big_photo_item_title_wifi_only">Wi-Fi only for displaying photo</string>
   <string name="sub_sync_item_gallery_summary">Recommended to enable, otherwise it will consume network traffic</string>

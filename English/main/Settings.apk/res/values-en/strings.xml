@@ -1361,6 +1361,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="sim_reenter_new">Re-type new PIN</string>
   <string name="skip_button_label">Cancel</string>
   <string name="skip_label">Skip</string>
+  <string name="skip_step">Skip this step</string>
   <string name="small_font">Small</string>
   <string name="sms_delivered_sound_dialog_title">Choose SMS delivered sound</string>
   <string name="sms_delivered_sound_title">SMS delivered sound</string>
