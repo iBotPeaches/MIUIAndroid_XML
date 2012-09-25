@@ -3,6 +3,8 @@
   <string name="alert_edit_action_delete">Remove</string>
   <string name="alert_edit_action_update">Update</string>
   <string name="alert_message_delete_folder">Are you sure you want to delete the select folder and notes?</string>
+  <string name="alert_message_delete_folders">Delete the selected %1$s folders?</string>
+  <string name="alert_message_delete_folders_notes">Delete the selected %1$s folders and %2$s notes?</string>
   <string name="alert_message_delete_note">Confirm to delete this note?</string>
   <string name="alert_message_delete_notes">Confirm to delete the selected %d notes?</string>
   <string name="alert_title_delete">Delete selected notes</string>
