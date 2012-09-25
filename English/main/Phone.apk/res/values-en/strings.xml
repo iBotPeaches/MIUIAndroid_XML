@@ -39,6 +39,7 @@
   <string name="answer_widget_sliding_vertical_miui">Vertical sliding</string>
   <string name="answer_widget_title_miui">Answer gesture</string>
   <string name="apn_settings">Access Point Names</string>
+  <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Locale area code required for emergency calls</string>
   <string name="areacode_required_miui">Area code is required</string>
   <string name="atr_disable">Area Traffic Reports disabled</string>
@@ -273,6 +274,7 @@
   <string name="crystaltalk_title_miui">NICAM setting</string>
   <string name="current_areacode_miui">Current area code</string>
   <string name="current_areacode_sum_miui">Area code of current location, or roaming area code if you are roaming. For example: 010</string>
+  <string name="current_areacode_sum_set_miui">Area code current location: %s</string>
   <string name="custom_location_location_hint_miui">Name</string>
   <string name="custom_location_number_hint_miui">Area code such as 010, group number such as 68#####</string>
   <string name="cw_title_miui">Call waiting</string>
