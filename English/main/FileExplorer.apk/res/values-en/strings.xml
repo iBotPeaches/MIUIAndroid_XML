@@ -159,6 +159,7 @@
   <string name="tab_category">Browse</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_sd">SD card</string>
+  <string name="toast_file_not_can_read">The file is unreadable.</string>
   <string name="trash_box_capacity">Trash space: %1$s</string>
   <string name="trash_box_link">Visit pan.xiaomi.com to empty trash</string>
   <string name="trash_box_message1">"You can delete unnecesarry files to free up space"</string>
@@ -170,6 +171,7 @@
   <string name="ui_bar_txt_download_success">MiDrive: Download succeeded</string>
   <string name="ui_bar_txt_file_not_found">MiDrive: File not found</string>
   <string name="ui_bar_txt_remain_task">%1$d left</string>
+  <string name="ui_bar_txt_text">Transferring MiDrive file...%1$d remaining (%2$d%%)</string>
   <string name="ui_bar_txt_upload_failed">MiDrive: Upload failed</string>
   <string name="ui_bar_txt_upload_progress">Uploading...</string>
   <string name="ui_bar_txt_upload_success">MiDrive: Upload succeeded</string>

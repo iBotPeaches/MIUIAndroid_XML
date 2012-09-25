@@ -38,6 +38,7 @@
   <string name="cleaning_cache">Cleaning cache...</string>
   <string name="clear_thumbnail_cache">Clear thumbnail cache</string>
   <string name="clear_thumbnail_cache_confirm">Thumbnail cache will be cleared. Gallery will rescan media files and re-create thumbnails.</string>
+  <string name="clear_thumbnail_cache_summary">Browsing gallery will generate thumbnails. Clearing the cache will increase space.</string>
   <string name="click_import">Touch here to import</string>
   <string name="close">Close</string>
   <string name="cloud_albums">Cloud Albums</string>
@@ -283,6 +284,7 @@
   <string name="sync_album">Sync album</string>
   <string name="sync_album_error">Failed to download the photos in this album. Please retry later.</string>
   <string name="sync_album_set_error">Failed to download the list of albums. Please retry later.</string>
+  <string name="sync_album_summary">Upload your pictures and screenshots to your MiCloud album storage</string>
   <string name="sync_history_power_on">Sync when charging</string>
   <string name="sync_history_power_on_summary">Enable, to reserve battery power when not charging.</string>
   <string name="sync_not_open">You can sync your mobile pictures to the cloud automatically for easier convenience.</string>

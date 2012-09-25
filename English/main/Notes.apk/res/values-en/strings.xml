@@ -100,6 +100,7 @@
   <string name="search_setting_description">Search for text within notes</string>
   <string name="send_to_note">Send to Note</string>
   <string name="snippet_image_stub">[Image]</string>
+  <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Export successful</string>
   <string name="success_sync_account">Sync successful with account %1$s</string>
   <string name="sync_progress_init_list">Getting remote note list...</string>
