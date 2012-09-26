@@ -39,6 +39,8 @@
   <string name="clear_all_mslog">Clear message log</string>
   <string name="close_rule">Disable rule</string>
   <string name="confirm">OK</string>
+  <string name="confirm_clear_blacklist">Are you sure you want to clear the blacklist?</string>
+  <string name="confirm_clear_whitelist">Are you sure you want to clear the whitelist?</string>
   <string name="context_add_contact">Add to existing contact</string>
   <string name="context_call">Call</string>
   <string name="context_ms">Send message</string>

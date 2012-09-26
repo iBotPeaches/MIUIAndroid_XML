@@ -33,6 +33,7 @@
   <string name="camera_folder_display_name">Camera Photos</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Wallpaper</string>
+  <string name="camera_view_none_message">Captured photos will be displayed here.</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_bookmark">Remove from Favorites</string>
   <string name="cleaning_cache">Cleaning cache...</string>
@@ -40,8 +41,10 @@
   <string name="clear_thumbnail_cache_confirm">Thumbnail cache will be cleared. Gallery will rescan media files and re-create thumbnails.</string>
   <string name="clear_thumbnail_cache_summary">Browsing gallery will generate thumbnails. Clearing the cache will increase space.</string>
   <string name="click_import">Touch here to import</string>
+  <string name="click_to_enter_camera">Open camera</string>
   <string name="close">Close</string>
   <string name="cloud_albums">Cloud Albums</string>
+  <string name="cloud_gallery_no_pictures">No pictures found in MiCloud</string>
   <string name="cloud_gallery_setting">Cloud gallery settings</string>
   <string name="cloud_gallery_space_full">Upload failed!, Cloud gallery storage full</string>
   <string name="cloud_media_set_set">Cloud albums</string>
@@ -163,6 +166,7 @@
   <string name="mimetype">MIME type</string>
   <string name="miui_capture_screen_folder_display_name">Screenshots</string>
   <string name="model">Model</string>
+  <string name="modify_cloud_settings">MiCloud Settings</string>
   <string name="more">More</string>
   <string name="move_cloud_data">Cloud gallery data has been moved to: %s</string>
   <string name="movie_view_label">Video player</string>
@@ -176,6 +180,7 @@
   <string name="no_files">Folder is empty</string>
   <string name="no_location">No location</string>
   <string name="no_map_app">No map application</string>
+  <string name="no_network_connected">No network connection available</string>
   <string name="no_recent_album">Albums can be added to favorites for quick viewing</string>
   <string name="no_storage_disable_cloud_albums">Cloud albums are disabled; please retry after external storage becomes available.</string>
   <string name="no_storage_message">No external storage available.</string>
@@ -183,6 +188,7 @@
   <string name="no_such_item">"Couldn't find item."</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="not_auto_create_recent_album">Not auto create recent album(s)</string>
+  <string name="only_upload_in_charging">Images are uploaded only when charging; please connect your device to charger.</string>
   <string name="open_map">Open map</string>
   <string name="open_single_image_failure">Failed to open image file!</string>
   <string name="open_sync">Sync Now</string>
