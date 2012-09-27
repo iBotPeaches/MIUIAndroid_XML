@@ -38,6 +38,7 @@
   <string name="gadget_weather_download_message">Theme package download required: %1$s. size: %2$s. Please re-select after download completes</string>
   <string name="gadget_weather_download_start">Start</string>
   <string name="gadget_weather_download_title">Download</string>
+  <string name="gadget_weather_downloading">Theme package is downloading. Please re-select after the download is finished</string>
   <string name="gadget_weather_loading">No weather data</string>
   <string name="gadget_weather_theme_type">Widget type</string>
   <string name="gadget_weather_time_format">D/MM EEE</string>

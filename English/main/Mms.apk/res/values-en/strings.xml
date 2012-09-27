@@ -237,7 +237,10 @@
   <string name="mx_btn_enable">Enable</string>
   <string name="mx_count_dspt">Since activation, MIUI has sent %d cloud message(s) for you</string>
   <string name="mx_dspt">Send messages via Internet between MIUI, turn on to send via Operator once failed</string>
+  <string name="mx_dspt_disabled">Send messages via Internet between MIUI, enable send via operator once failed</string>
   <string name="mx_enable">Enable cloud messaging</string>
+  <string name="mx_offline">Offline</string>
+  <string name="mx_online">Online</string>
   <string name="mx_reactivate">Re-activate cloud messaging</string>
   <string name="mx_warning_notice">An SMS will be sent to activate cloud messaging. Normal carrier data rates may apply</string>
   <string name="need_download">Waiting for sync...</string>

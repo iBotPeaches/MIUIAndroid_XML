@@ -2,6 +2,7 @@
 <resources>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
+  <string name="account_dspt">"Xiaomi Account can synchronize and backup your messages, contacts, pictures, etc"</string>
   <string name="account_hint_text">E-mail/Phone number</string>
   <string name="account_name">Account: %1$s</string>
   <string name="activate_fail_notification_title">Reactivate Xiaomi sync service</string>
