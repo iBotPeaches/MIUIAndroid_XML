@@ -927,6 +927,10 @@
   <string name="sum_select_automatically_option_miui">Automatically select preferred network, %s</string>
   <string name="sum_show_caller_id">Number displayed in outgoing calls</string>
   <string name="sum_voicemail_choose_provider">Choose voicemail service</string>
+  <string name="t9_indexing_method_pinyin">PinYin</string>
+  <string name="t9_indexing_method_title_miui">T9 Search Setting</string>
+  <string name="t9_indexing_method_zhuyin">ZhuYin</string>
+  <string name="t9_indexing_rebuilding_message">Rebuilding T9 Indexes…</string>
   <string name="technology_news_disable">Technology News disabled</string>
   <string name="technology_news_enable">Technology News enabled</string>
   <string name="telocation_setting_miui">Location Settings</string>
