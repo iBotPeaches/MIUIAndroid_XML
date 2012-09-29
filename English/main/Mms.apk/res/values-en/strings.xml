@@ -235,7 +235,7 @@
   <string name="mx_auto_resend_sms">Send as SMS</string>
   <string name="mx_auto_resend_sms_summary">Send as SMS when Cloud message is unavailable. Carrier messaging rates may apply</string>
   <string name="mx_btn_enable">Enable</string>
-  <string name="mx_count_dspt">Since activation, MIUI has sent %d cloud message(s) for you</string>
+  <string name="mx_count_dspt">Since activation, MIUI has sent %1$d cloud message(s) for you (%2$s)</string>
   <string name="mx_dspt">Send messages via Internet between MIUI, turn on to send via Operator once failed</string>
   <string name="mx_dspt_disabled">Send messages via Internet between MIUI, enable send via operator once failed</string>
   <string name="mx_enable">Enable cloud messaging</string>

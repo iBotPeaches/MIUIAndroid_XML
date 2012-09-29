@@ -7,7 +7,7 @@
   <string name="audio_db_playlist_name">My recordings</string>
   <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="button_ok">OK</string>
-  <string name="call_record">Record Call</string>
+  <string name="call_record">Call record(%d)</string>
   <string name="call_record_or">or</string>
   <string name="default_record_name">Untitled recording</string>
   <string name="delete_dialog_message">Do you want to delete current recording?</string>

@@ -142,7 +142,7 @@
   <string name="loading_image">Loading image...</string>
   <string name="loading_thumbnail">Loading thumbnail...</string>
   <string name="loading_video">Loading video...</string>
-  <string name="loading_will_cost">Downloading images will use your data allowance</string>
+  <string name="loading_will_cost">Downloading images will use your data allowance (about %1$dK)</string>
   <string name="location">Location</string>
   <string name="locations">Locations</string>
   <string name="login_account">Login Xiaomi Account &amp; Sync</string>
