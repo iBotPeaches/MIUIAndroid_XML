@@ -72,7 +72,7 @@
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="file_not_found">File does not exist</string>
   <string name="filter_by_duration">Filter by duration</string>
-  <string name="filter_by_duration_format">%2$d:%5$02d</string>
+  <string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
   <string name="filter_by_duration_max">5 min</string>
   <string name="filter_by_duration_min">0 secs</string>
   <string name="filter_by_duration_prefix">"Max length (in hours):"</string>
