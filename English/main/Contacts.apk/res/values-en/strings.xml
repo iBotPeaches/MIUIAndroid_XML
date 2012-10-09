@@ -87,9 +87,9 @@
   <string name="callrecordview_menu_show_title">Call log filter</string>
   <string name="cancel_confirmation_dialog_message">Do you want to discard your changes?</string>
   <string name="cancel_confirmation_dialog_title">Discard changes</string>
-  <string formatted="false" name="cancel_export_confirmation_message">Are you sure to cancel exporting %s?</string>
+  string name="cancel_export_confirmation_message">Are you sure you wish to cancel exporting %s?</string>
   <string name="cancel_export_confirmation_title">Cancelling vCard export</string>
-  <string formatted="false" name="cancel_import_confirmation_message">Are you sure to cancel importing %s?</string>
+  <string name="cancel_import_confirmation_message">Are you sure you wish to cancel importing %s?</string>
   <string name="cancel_import_confirmation_title">Cancelling vCard import</string>
   <string name="cancel_vcard_import_or_export_failed">"Couldn't cancel vCard import/export"</string>
   <string name="chat">Chat</string>
@@ -159,7 +159,7 @@
   <string name="deleteConfirmation">This contact will be deleted.</string>
   <string name="deleteConfirmation_title">Delete</string>
   <string name="delete_call_log_title">Select call log to delete?</string>
-  <string name="delete_contact_calllog_title">"Are you sure to delete contact's call logs?"</string>
+  <string name="delete_contact_calllog_title">"Are you sure you wish to delete contact's call logs?"</string>
   <string name="delete_duplicate">Batch merge</string>
   <string name="delete_duplicate_message">"Merging ... "</string>
   <string formatted="false" name="delete_group_dialog_message">"Are you sure you want to delete the group '%1$s'? (Contacts themselves will not be deleted.)"</string>

@@ -4,7 +4,7 @@
   <string name="app_label">Compass</string>
   <string name="calibrate_success">Calibration succeed</string>
   <string name="cannot_get_location">Cannot get your location</string>
-  <string name="dialog_content">The compass has not finished calibration，which may result in inaccuracy. Are you sure to cancel？</string>
+  <string name="dialog_content">The compass has not finished calibration，which may result in inaccuracy. Are you sure you wish to cancel？</string>
   <string name="dialog_title">Cancel calibration</string>
   <string name="getting_location">Getting location...</string>
   <string name="hpa">hPa</string>

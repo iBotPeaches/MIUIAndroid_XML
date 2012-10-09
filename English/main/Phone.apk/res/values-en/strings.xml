@@ -267,7 +267,7 @@
   <string name="contactPhoto">contact photo</string>
   <string name="contacts_icon_label_miui">Contacts</string>
   <string name="count_of_persons_in_conference_miui">Total of %d people</string>
-  <string name="countrycode_alert_message_warning_miui">The country code you input may be wrong, are you sure to use it?</string>
+  <string name="countrycode_alert_message_warning_miui">The country code you input may be wrong, are you sure you wish to use it?</string>
   <string name="countrycode_alert_message_wrong_miui">The country code you input is wrong, please reinput</string>
   <string name="countrycode_alert_title_miui">Alert</string>
   <string name="crystaltalk_summary_miui">Call audio configuration optimization</string>
@@ -555,12 +555,18 @@
   <string name="mismatch_pin2_miui">The PIN2s you entered do not match. Please try again.</string>
   <string name="mismatch_pin_miui">The PINs you entered do not match. Please try again.</string>
   <string name="missed_call_notify_five_times">5 times</string>
+  <string name="missed_call_notify_five_times_miui">5 times</string>
+  <string name="missed_call_notify_none_miui">Never</string>
   <string name="missed_call_notify_once">Once</string>
+  <string name="missed_call_notify_once_miui">Once</string>
   <string name="missed_call_notify_ten_times">10 times</string>
+  <string name="missed_call_notify_ten_times_miui">10 times</string>
   <string name="missed_call_notify_thrice">3 times</string>
+  <string name="missed_call_notify_thrice_miui">3 times</string>
   <string name="missed_call_notify_times_summary_miui">Repeats every 5 minutes by default for missed calls</string>
   <string name="missed_call_notify_times_title_miui">Missed call reminder times</string>
   <string name="missed_call_notify_twice">2 times</string>
+  <string name="missed_call_notify_twice_miui">Twice</string>
   <string name="mmiCancelled">MMI code canceled</string>
   <string name="mmiStarted">MMI code started</string>
   <string name="mobile_networks">Mobile Network Settings</string>
@@ -965,7 +971,7 @@
   <string name="tty_mode_option_title_miui">TTY mode</string>
   <string name="tty_mode_summary">Enable TTY mode</string>
   <string name="tty_mode_title">TTY mode</string>
-  <string name="turn_off_auto_select_confirm_message_miui">The signal and network may be unavailable, are you sure to turn off this option?</string>
+  <string name="turn_off_auto_select_confirm_message_miui">The signal and network may be unavailable, are you sure you wish to turn off this option?</string>
   <string name="turn_off_auto_select_title_miui">Turn off network auto selection</string>
   <string name="turn_off_auto_select_warning_message_miui">After turning off this option, it will use the network you selected manually and will not register to another network</string>
   <string name="turn_off_miui">turn-off</string>

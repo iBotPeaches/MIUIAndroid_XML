@@ -395,7 +395,7 @@
   <string name="select_link_title">Select action</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
-  <string name="send_signature_confirm_dialog_message">No message body found. Are you sure to send only the signature?</string>
+  <string name="send_signature_confirm_dialog_message">No message body found. Are you sure you wish to send only the signature?</string>
   <string name="send_signature_confirm_dialog_title">Confirm Sending</string>
   <string name="send_to">To: %1$s</string>
   <string name="send_to_count">Sent %1$s message(s)</string>
