@@ -87,7 +87,7 @@
   <string name="callrecordview_menu_show_title">Call log filter</string>
   <string name="cancel_confirmation_dialog_message">Do you want to discard your changes?</string>
   <string name="cancel_confirmation_dialog_title">Discard changes</string>
-  string name="cancel_export_confirmation_message">Are you sure you wish to cancel exporting %s?</string>
+  <string name="cancel_export_confirmation_message">Are you sure you wish to cancel exporting %s?</string>
   <string name="cancel_export_confirmation_title">Cancelling vCard export</string>
   <string name="cancel_import_confirmation_message">Are you sure you wish to cancel importing %s?</string>
   <string name="cancel_import_confirmation_title">Cancelling vCard import</string>
