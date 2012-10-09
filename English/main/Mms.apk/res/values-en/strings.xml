@@ -239,6 +239,7 @@
   <string name="mx_dspt">Send messages via Internet between MIUI, turn on to send via Operator once failed</string>
   <string name="mx_dspt_disabled">Send messages via Internet between MIUI, enable send via operator once failed</string>
   <string name="mx_enable">Enable cloud messaging</string>
+  <string name="mx_enable_popup_msg">Cloud messaging enables you to send messages via MIUI. A normal SMS is required to activate the service and carrier charges may apply. Do you want to activate it now?</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Re-activate cloud messaging</string>

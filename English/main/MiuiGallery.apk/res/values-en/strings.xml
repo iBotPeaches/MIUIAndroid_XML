@@ -284,6 +284,7 @@
   <string name="slideshow_interval_invalid">Invalid time interval setting, must be between 1 and 3600. Default time interval will now be used</string>
   <string name="slideshow_repeat_mode">Repeat</string>
   <string name="storage_all_volumes">All storage devices</string>
+  <string name="storage_no_space">"No storage space available."</string>
   <string name="straighten">Straighten</string>
   <string name="straighten_tooltip">Drag photo to straighten it</string>
   <string name="switch_to_camera">Switch to Camera</string>

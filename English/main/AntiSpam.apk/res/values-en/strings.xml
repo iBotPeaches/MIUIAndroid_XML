@@ -65,6 +65,7 @@
   <string name="fw_blocked">Blocked stats</string>
   <string formatted="false" name="fw_blocked_count">%d %d calls and messages blocked</string>
   <string formatted="false" name="fw_call">Call time: %s (%d)</string>
+  <string name="fw_call_imported">Import from Call log</string>
   <string name="fw_call_muted">Call muted</string>
   <string name="fw_call_rejected">Call rejected</string>
   <string name="fw_clear_all_keyword">Clear all keywords</string>
