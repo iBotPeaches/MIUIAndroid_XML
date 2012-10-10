@@ -15,6 +15,7 @@
   <string name="attachment_camera">Camera</string>
   <string name="attachment_contact">Contact</string>
   <string name="attachment_gallery">Gallery</string>
+  <string name="blank_char">" "</string>
   <string name="button_new_note">New Note</string>
   <string name="call_record_folder_name">Call notes</string>
   <string name="default_folder_name">Notes</string>

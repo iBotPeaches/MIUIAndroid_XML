@@ -117,6 +117,8 @@
   <string name="sync_traffic_fail_message">Sync from mobile operator failed, the server is busy. Please try again later or call customer service %s for help</string>
   <string name="sync_traffic_fail_title">Sync failed</string>
   <string name="sync_traffic_ing">Syncing from operators, please wait...</string>
+  <string name="sync_traffic_no_cmd_detail">"Submit your City, Province and ICC's brand and carrier to the following thread on the forums: http://www.miui.com/forum-172-1.html. Thank you."</string>
+  <string name="sync_traffic_no_cmd_title">No SMS template</string>
   <string name="sync_traffic_success">"Synchronised operator's data, traffic adjusted successfully"</string>
   <string name="this_month">Month</string>
   <string name="today">Today</string>
