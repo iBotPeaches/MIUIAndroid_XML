@@ -49,4 +49,5 @@
   <string formatted="false" name="second">%d seconds</string>
   <string name="storage_is_full">Storage is full</string>
   <string formatted="false" name="timer_format">%02d:%02d</string>
+  <string name="unknown_caller">Unknown caller</string>
 </resources>
