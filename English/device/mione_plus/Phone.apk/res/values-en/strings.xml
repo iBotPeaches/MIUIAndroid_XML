@@ -1031,9 +1031,9 @@
   <string name="sum_xdivert_disabled">X-Divert Disabled</string>
   <string name="sum_xdivert_enabled">X-Divert Enabled</string>
   <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
-  <string name="t9_indexing_method_pinyin">PinYin</string>
-  <string name="t9_indexing_method_title_miui">T9 search setting</string>
-  <string name="t9_indexing_method_zhuyin">ZhuYin</string>
+  <string name="t9_indexing_method_pinyin">Alphabet</string>
+  <string name="t9_indexing_method_title_miui">T9 Search Settings</string>
+  <string name="t9_indexing_method_zhuyin">Phonetic</string>
   <string name="t9_indexing_rebuilding_message">Rebuilding T9 Indexes, please wait...</string>
   <string name="technology_news_disable">Technology News disabled</string>
   <string name="technology_news_enable">Technology News enabled</string>
