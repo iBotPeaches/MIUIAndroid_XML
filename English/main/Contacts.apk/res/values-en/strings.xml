@@ -157,6 +157,7 @@
   <string name="default_ringtone">Default ringtone</string>
   <string name="delete">Delete</string>
   <string name="deleteConfirmation">This contact will be deleted.</string>
+  <string name="deleteConfirmationDetail">\"%s\" will be deleted.</string>
   <string name="deleteConfirmation_title">Delete</string>
   <string name="delete_call_log_title">Select call log to delete?</string>
   <string name="delete_contact_calllog_title">"Are you sure you wish to delete contact's call logs?"</string>
@@ -379,6 +380,7 @@
   <string name="missing_name">(no name)</string>
   <string name="move_and_resize">Move and Scale</string>
   <string name="multipleContactDeleteConfirmation">Deleting this contact will delete information from multiple accounts.</string>
+  <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete information from multiple accounts.</string>
   <string name="nameLabelsGroup">Name</string>
   <string name="name_family">Family name</string>
   <string name="name_given">Given name</string>
@@ -438,6 +440,13 @@ To add a contact to your list of favorites:
   <string formatted="false" name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Dial pad</string>
   <string name="open_contact">View contact</string>
+  <string name="option_delete_contact">Delete</string>
+  <string name="option_edit_contact">Edit</string>
+  <string name="option_not_in_group">Remove</string>
+  <string name="option_not_star">Unfavorite</string>
+  <string name="option_send_to_desktop">Send to desktop</string>
+  <string name="option_send_to_others">Send to others</string>
+  <string name="option_view_contact">View</string>
   <string name="organizationLabelsGroup">Organization</string>
   <string formatted="false" name="organization_company_and_title">%2$s, %1$s</string>
   <string name="payphone">Pay phone</string>
@@ -484,6 +493,7 @@ To add a contact to your list of favorites:
   <string formatted="false" name="raw_contact_account_label">Account:%1$s</string>
   <string formatted="false" name="raw_contact_list_title">This contact includes following %1$d raw contacts，click to choose contact to edit</string>
   <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts list but not deleted.</string>
   <string name="readOnlyContactWarning">You cannot delete contacts from read-only accounts, but you can hide them in your contacts lists.</string>
   <string name="reading_vcard_failed_title">"Couldn't read vCard data"</string>
   <string name="recentCallsIconLabel">Call log</string>

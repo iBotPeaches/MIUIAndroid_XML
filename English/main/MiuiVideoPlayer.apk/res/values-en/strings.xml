@@ -12,7 +12,7 @@
   <string name="airkan_control_device_des">You can control video playback via the button at the bottom</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
   <string name="airkan_video_playing" />
-  <string name="airkan_video_playing_in">Video is playing…</string>
+  <string name="airkan_video_playing_in">Video is playing...</string>
   <string name="app_name">MiVideo</string>
   <string name="buffering">Buffering...</string>
   <string name="hello">VideoPlayerActivity</string>
@@ -44,4 +44,9 @@
   <string name="video_info_length_label">Length:</string>
   <string name="video_info_resolution_label">Video resolution:</string>
   <string name="video_info_video_coding_label">Video encoding format:</string>
+  <string name="vp_VideoView_error_button">OK</string>
+  <string name="vp_VideoView_error_network_not_available">Network unavailable</string>
+  <string name="vp_VideoView_error_text_invalid_progressive_playback">Sorry, the selected video format is not valid for streaming to this device</string>
+  <string name="vp_VideoView_error_text_unknown">Sorry, the selected video format cannot be played</string>
+  <string name="vp_VideoView_error_title">Video playback error!</string>
 </resources>

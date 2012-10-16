@@ -1764,6 +1764,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="wfd_menu_searching">Searching...</string>
   <string name="wfd_menu_teardown">Stop</string>
   <string name="wfd_settings_title">Wi-Fi Display Settings</string>
+  <string name="wfd_wps_keypad">Button press</string>
+  <string name="wfd_wps_pbc">Input PIN</string>
   <string name="widget_picker_title">Choose widget</string>
   <string name="wifi_access_points">Wi-Fi networks</string>
   <string name="wifi_add_network">Add network</string>
