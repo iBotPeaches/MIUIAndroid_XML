@@ -704,6 +704,7 @@
   <string name="pin2_changed">PIN2 changed successfully</string>
   <string name="pin2_changed_miui">PIN2 changed successfully</string>
   <string name="pin2_invalid">FDN not updated: you entered an incorrect PIN.</string>
+  <string name="pin2_invalid_or_name_is_too_long">FDN was not updated: you have entered an incorrect PIN2 or the name is too long.</string>
   <string name="pin2_lock_warning_miui">"Please notice that PIN2 related functionality will be locked if failed again!"</string>
   <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2.</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>

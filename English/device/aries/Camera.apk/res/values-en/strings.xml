@@ -196,6 +196,7 @@
   <string name="pref_camera_contrast_entry_level9">Level 9</string>
   <string name="pref_camera_contrast_title">Contrast</string>
   <string name="pref_camera_current_k_value">Current Value</string>
+  <string name="pref_camera_default_suffix">(Default)</string>
   <string name="pref_camera_denoise_default">denoise-off</string>
   <string name="pref_camera_denoise_entry_off">Off</string>
   <string name="pref_camera_denoise_entry_on">On</string>
