@@ -993,6 +993,25 @@ Some apps may not work until updated by their developers."</string>
   <string name="move_app_to_internal">Move to phone</string>
   <string name="move_app_to_sdcard">Move to SD card</string>
   <string name="moving">Moving</string>
+  <string name="msd_help_summary">"Problems accessing mobile storage via computer? Please select your computer’s operating system:"</string>
+  <string name="msd_help_title">Help</string>
+  <string name="msd_install">Install driver</string>
+  <string name="msd_install_finish">OK</string>
+  <string name="msd_install_next">Next</string>
+  <string name="msd_install_retry_linux">"If your computer does not detect your device,
+Try the following:
+1) Use installation tools ,sudo aptitude install mtpfs libfuse-dev libmad0-dev
+2) Create directory: mkdir /media/mtp
+3) Confirm user group permissions in the current user group
+4) Re-login
+5) Access mounted device mtpfs /media/mtp via File Explorer; same as local directory
+6) Uninstall device fusermount -u /media/mtp
+ Note: For ubuntu 8.04 environment"</string>
+  <string name="msd_install_retry_mac">"If the computer did not detect the device properly, try the following:"</string>
+  <string name="msd_install_retry_windows_vista">"If the computer did not detect the device properly, try the following:"</string>
+  <string name="msd_install_retry_windows_xp">"If the computer did not detect the device properly, try the following:"</string>
+  <string name="msd_install_succeed">Driver installed</string>
+  <string name="msd_install_windows_xp_step_2_1">"1.If the Setup Wizard pops up, please follow the steps to complete the driver installation"</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">Reboot to enable</string>
   <string name="musicfx_title">Music effects</string>

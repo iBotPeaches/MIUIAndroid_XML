@@ -329,6 +329,8 @@
   <string name="lunar_yi" />
   <string name="lunar_yue" />
   <string name="lunar_zheng" />
+  <string name="memory_clear_nothing_result">No memory to clear</string>
+  <string name="memory_clear_result">"%1$s Free | %2$s available"</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_privacy_policy_title">Privacy policy</string>
   <string name="miui_user_agreement_title">User agreement</string>
@@ -366,6 +368,8 @@
   <string name="perm_tigger_toggle_lab">Trigger toggles from status bar</string>
   <string name="perm_use_find_device">Locate device</string>
   <string name="perm_use_pin_security">Use PIN security</string>
+  <string name="permdesc_accessNote">Allows the app to read and modify your notes stored on your phone. Malicious applications can use this to send your notes to other people or erase all notes.</string>
+  <string name="permlab_accessNote">Access notes</string>
   <string name="private_num">Private number</string>
   <string name="processing">Processing ...</string>
   <string name="reboot_confirm">Phone will be restarted</string>

@@ -328,6 +328,9 @@
   <string name="liveFolder_all_label">All contacts</string>
   <string name="liveFolder_favorites_label">Starred</string>
   <string name="liveFolder_phones_label">Phones</string>
+  <string name="loading_group_members">Loading group members...</string>
+  <string name="loading_groups">Loading groups...</string>
+  <string name="loading_recent">Loading recent contacts...</string>
   <string name="local_invisible_directory">Other</string>
   <string name="local_profile_title">My local profile</string>
   <string name="local_search_label">All contacts</string>
@@ -483,6 +486,13 @@ To add a contact to your list of favorites:
   <string name="preference_others">Others</string>
   <string name="preference_remove_duplicate">Merge duplicate contacts</string>
   <string name="preference_select_account_display">Filter by account</string>
+  <string name="preference_smart_group_company_summary">Group contacts by company info</string>
+  <string name="preference_smart_group_company_title">By company</string>
+  <string name="preference_smart_group_frequency_summary">Group by the latest calls or SMS</string>
+  <string name="preference_smart_group_frequency_title">By recently contacted</string>
+  <string name="preference_smart_group_location_summary">Grouped according to the area code</string>
+  <string name="preference_smart_group_location_title">By location</string>
+  <string name="preference_smart_group_title">Smart grouping</string>
   <string name="preview_contact_card_title">Import contact card</string>
   <string name="primary_indicator">(default)</string>
   <string name="private_num">Private number</string>
@@ -550,6 +560,17 @@ To add a contact to your list of favorites:
   <string name="sim_export_loading">SIM card information is being read. This operation may take a minute, please be patient.</string>
   <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is not valid, should between %2$d and %3$d</string>
   <string name="sim_no_contact">No contacts on SIM card</string>
+  <string name="smart_group_action_bar_title">%1$s-%2$s</string>
+  <string name="smart_group_company_label">By company</string>
+  <string name="smart_group_company_unavailable">No company info</string>
+  <string name="smart_group_frequency_1">Contacted within the month</string>
+  <string name="smart_group_frequency_2">Contacted within 3 months</string>
+  <string name="smart_group_frequency_3">Contacted within 6 months</string>
+  <string name="smart_group_frequency_4">No contact for over 6 months</string>
+  <string name="smart_group_frequency_label">By recently contacted</string>
+  <string name="smart_group_label">Smart grouping</string>
+  <string name="smart_group_location_label">By location</string>
+  <string name="smart_group_location_unavailable">No address info</string>
   <string name="sms">Text message</string>
   <string formatted="false" name="sms_assistant">Text %s</string>
   <string name="sms_callback">Text callback</string>

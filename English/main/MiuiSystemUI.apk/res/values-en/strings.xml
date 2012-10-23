@@ -265,7 +265,13 @@
   <string name="usb_mode_dont_ask">"Don't ask next time"</string>
   <string name="usb_mode_mount_storage_title">Open USB storage now？</string>
   <string name="usb_mode_notification">USB Storage</string>
+  <string name="usb_mtp_text">Files</string>
+  <string name="usb_notification">USB Connected</string>
+  <string name="usb_notification_mtp_info">Access files via the computer connection</string>
+  <string name="usb_notification_mtp_problem">Help &gt;</string>
+  <string name="usb_notification_ptp_info">Access photos via computer connection</string>
   <string name="usb_preference_title">USB file transfer options</string>
+  <string name="usb_ptp_text">Photos</string>
   <string name="usb_storage_error_message">There is a problem using your SD card storage for USB mass storage.</string>
   <string name="usb_storage_message">You have connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android‘s USB storage.</string>
   <string name="usb_storage_notification_message">Select to copy files to/from your computer.</string>

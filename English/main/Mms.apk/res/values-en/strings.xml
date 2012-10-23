@@ -233,6 +233,8 @@
   <string name="mx_activate_hint_server">Server activation failed to activate cloud messaging? Activate it now?</string>
   <string name="mx_activate_hint_sim_change">SIM card changed, reactivation of cloud messaging required. Activate it now?</string>
   <string name="mx_activating">Activating…</string>
+  <string name="mx_auto_resend_mms">Auto re-send MMS</string>
+  <string name="mx_auto_resend_mms_summary">Send as MMS when Cloud Messaging is unavailable. Carrier messaging rates may apply</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
   <string name="mx_auto_resend_sms_summary">Send as SMS when Cloud message is unavailable. Carrier messaging rates may apply</string>
   <string name="mx_btn_enable">Enable</string>

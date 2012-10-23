@@ -187,6 +187,7 @@
   <string name="no_storage_title">No Storage</string>
   <string name="no_such_item">"Couldn't find item."</string>
   <string name="no_thumbnail">No thumbnail</string>
+  <string name="none_picture">No pictures found in Gallery</string>
   <string name="not_auto_create_recent_album">Not auto create recent album(s)</string>
   <string name="only_upload_in_charging">Images are uploaded only when charging; please connect your device to charger.</string>
   <string name="open_map">Open map</string>
