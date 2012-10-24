@@ -473,6 +473,9 @@ To add a contact to your list of favorites:
   <string name="postal_postcode">ZIP code</string>
   <string name="postal_region">State</string>
   <string name="postal_street">Street</string>
+  <string name="pref_key_photo">Photo</string>
+  <string name="pref_key_photo_word_summary">Auto select a photo for contacts without one set.</string>
+  <string name="pref_key_photo_word_title">Auto select photo for contacts</string>
   <string name="pref_key_rebuild_t9_index_message">Fix contact search indexing failure</string>
   <string name="pref_key_rebuild_t9_index_title">Rebuild T9 index data</string>
   <string name="pref_summary_import_from_account">Import contacts from Google and Exchange accounts to my Xiaomi Account</string>

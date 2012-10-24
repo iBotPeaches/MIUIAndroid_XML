@@ -356,6 +356,8 @@
   <string name="perm_auto_backup">Automatic backup</string>
   <string name="perm_get_user_info_dspt">Get details of Xiaomi account</string>
   <string name="perm_get_user_info_lab">Get Xiaomi account info</string>
+  <string name="perm_send_push_dspt">Allow push messages to Xiaomi</string>
+  <string name="perm_send_push_lab">Send push message</string>
   <string name="perm_tigger_toggle_dspt">Allow apps to trigger toggles provided by status bar</string>
   <string name="perm_tigger_toggle_lab">Trigger toggles from status bar</string>
   <string name="perm_use_find_device">Locate device</string>
