@@ -1721,6 +1721,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="volume_system_description">System volume, for camera shutter, lock screen and other system notifications</string>
   <string name="volume_voice_description">Voice volume</string>
   <string name="vpn_cancel">Cancel</string>
+  <string name="vpn_configure">Configure VPN</string>
   <string name="vpn_connect">Connect</string>
   <string name="vpn_connect_to">Connect to %s</string>
   <string name="vpn_create">Add VPN network</string>
@@ -1743,10 +1744,12 @@ Some apps may not work until updated by their developers."</string>
   <string name="vpn_not_used">(not used)</string>
   <string name="vpn_password">Password</string>
   <string name="vpn_routes">Forwarding routes (e.g. 10.0.0.0/8)</string>
+  <string name="vpn_safe">VPN Security</string>
   <string name="vpn_save">Save</string>
   <string name="vpn_save_login">Save account information</string>
   <string name="vpn_search_domains">DNS search domains</string>
   <string name="vpn_server">Server address</string>
+  <string name="vpn_settings_password">VPN Password Settings</string>
   <string name="vpn_settings_title">VPN</string>
   <string name="vpn_show_options">Show advanced options</string>
   <string name="vpn_title">VPN</string>
