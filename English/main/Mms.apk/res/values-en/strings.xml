@@ -152,7 +152,7 @@
   <string name="group_message">Group message</string>
   <string name="group_message_failed_title">Failed sending to %d contacts, retry?</string>
   <string name="group_resend_message">Resend (%d)</string>
-  <string name="guild_add_attachments">Click here to add attachments or smily for the message</string>
+  <string name="guild_add_attachments">Click here to add attachments or emoticons for the message</string>
   <string name="guild_add_recipients">Click here to add recipients in address book</string>
   <string name="has_draft">Draft</string>
   <string name="has_invalid_recipient">Invalid recipient(s): %1$s</string>

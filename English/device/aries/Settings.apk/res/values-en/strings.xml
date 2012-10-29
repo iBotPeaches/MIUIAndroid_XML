@@ -1591,7 +1591,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="unlock_set_unlock_summary">Please enable screen password to set password protection</string>
   <string name="unmount_inform_text">SD card will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
-  <string name="upload_debug_log_summary">Upload debug log only when WLAN connection available to help MIUI team develop a more stable ROM.</string>
+  <string name="upload_debug_log_summary">Upload debug log only when Wi-Fi connection available to help MIUI team develop a more stable ROM.</string>
   <string name="upload_debug_log_title">Upload debug log</string>
   <string name="usage_log">Application usage stats</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
@@ -1825,9 +1825,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="wifi_menu_connect">Connect to network</string>
   <string name="wifi_menu_forget">Forget network</string>
   <string name="wifi_menu_modify">Modify network</string>
-  <string name="wifi_menu_p2p">WLAN Direct</string>
+  <string name="wifi_menu_p2p">Wi-Fi Direct</string>
   <string name="wifi_menu_scan">Scan</string>
-  <string name="wifi_menu_wfd">WLAN Display</string>
+  <string name="wifi_menu_wfd">Wi-Fi Display</string>
   <string name="wifi_menu_wps_pbc">WPS Push Button</string>
   <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
   <string name="wifi_more">More</string>
@@ -1987,8 +1987,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="wifi_wps_in_progress">WPS is already in progress and can take upto two minutes to complete</string>
   <string name="wifi_wps_onstart_pbc">Press the Wi-Fi Protected Setup button on your router. It may be called \"WPS\" or contain this symbol:</string>
   <string name="wifi_wps_onstart_pin">Enter pin %1$s on your Wi-Fi router. The setup can take upto two minutes to complete.</string>
-  <string name="wifi_wps_overlap_error">Another WLAN protected session was detected. Try again in a few minutes.</string>
-  <string name="wifi_wps_setup_msg">Starting WPS…</string>
+  <string name="wifi_wps_overlap_error">Another Wi-Fi protected session was detected. Try again in a few minutes.</string>
+  <string name="wifi_wps_setup_msg">Starting WPS...</string>
   <string name="wifi_wps_setup_title">Wi-Fi Protected Setup</string>
   <string name="wimax_settings">4G settings</string>
   <string name="wimax_settings_summary">Set up &amp; manage 4G network and modem</string>
