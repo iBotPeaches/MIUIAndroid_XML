@@ -609,6 +609,7 @@ To add a contact to your list of favorites:
   <string name="success_message_import_from_account">Imported successfully</string>
   <string name="summary_kind_title">Summary</string>
   <string name="t9_search_guide">Input user number, or search contacts by T9 index.</string>
+  <string name="t9_search_guide_zhuyin">Input number or search contacts using T9 indexing</string>
   <string name="take_new_photo">Take new photo</string>
   <string name="take_photo">Take photo</string>
   <string name="titleJoinContactDataWith">Join contacts</string>

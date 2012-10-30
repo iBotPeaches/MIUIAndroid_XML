@@ -326,6 +326,7 @@
   <string name="lunar_zheng" />
   <string name="memory_clear_nothing_result">No memory to clear</string>
   <string name="memory_clear_result">"%1$s Free | %2$s available"</string>
+  <string name="miro_menu_overflow">More</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_privacy_policy_title">Privacy policy</string>
   <string name="miui_user_agreement_title">User agreement</string>

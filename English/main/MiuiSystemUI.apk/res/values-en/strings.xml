@@ -240,6 +240,8 @@
   <string name="status_bar_toggle_lock">Lock</string>
   <string name="status_bar_toggle_mute">Silent</string>
   <string name="status_bar_toggle_network_type">Network type</string>
+  <string name="status_bar_toggle_power_mode">Power mode</string>
+  <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
   <string name="status_bar_toggle_privacy_mode">Guard</string>
   <string name="status_bar_toggle_reboot">Reboot</string>
   <string name="status_bar_toggle_rotate">Rotation</string>
@@ -267,9 +269,9 @@
   <string name="usb_mode_notification">USB Storage</string>
   <string name="usb_mtp_text">Files</string>
   <string name="usb_notification">USB Connected</string>
-  <string name="usb_notification_mtp_info">Access files via the computer connection</string>
+  <string name="usb_notification_mtp_info">Access files via computer</string>
   <string name="usb_notification_mtp_problem">Help &gt;</string>
-  <string name="usb_notification_ptp_info">Access photos via computer connection</string>
+  <string name="usb_notification_ptp_info">Access photos via computer</string>
   <string name="usb_preference_title">USB file transfer options</string>
   <string name="usb_ptp_text">Photos</string>
   <string name="usb_storage_error_message">There is a problem using your SD card storage for USB mass storage.</string>

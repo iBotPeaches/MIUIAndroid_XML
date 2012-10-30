@@ -109,6 +109,7 @@
   <string name="settings_page_traffic_summary_no_settings">Package not set, Charge since %d</string>
   <string name="sms_match_fail">Failed to match SMS</string>
   <string name="sms_template_match_fail">Match SMS template fail</string>
+  <string name="sms_template_updated_label">"Updated: "</string>
   <string name="sort_dialog_title">Sort</string>
   <string name="sorted_flux">Traffic Stats</string>
   <string name="stop_app_button">Close</string>
@@ -131,6 +132,7 @@
   <string name="traffic_total">Total: %s</string>
   <string name="traffic_used_status">Used: %s</string>
   <string name="traffic_widget_name">Monitor Widget (1x2)</string>
+  <string name="unknown">unknown</string>
   <string name="unknown_free_traffic_hint">"If you don't know your traffic allowance, please speak to your mobile operator for assistance"</string>
   <string name="unknown_free_traffic_text">"I don't know my traffic allowance?"</string>
   <string name="unknown_free_traffic_title">Unknown free traffic</string>
@@ -142,6 +144,7 @@
   <string name="update_success">Updated successfully</string>
   <string name="updating">Updating...</string>
   <string name="used_flux">Traffic Usage</string>
+  <string name="version_label">"Version: "</string>
   <string name="warning_settings_toast">"%1$d%% %2$dMB"</string>
   <string name="warning_title">Warning</string>
   <string name="widget_color_exceed_warn">\#F9882C</string>

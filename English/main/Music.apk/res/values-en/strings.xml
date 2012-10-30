@@ -17,6 +17,9 @@
   <string formatted="false" name="artist_details_format">%1$s, %2$s</string>
   <string name="artist_edit">Artist</string>
   <string name="artists_title">Artists</string>
+  <string name="auto_correct_id3_settings">Autocorrect ID3 Settings</string>
+  <string name="auto_correct_id3_summary">Audio fingerprint algorithm will correct ID3 data when playing.</string>
+  <string name="batch_correct_id3_completed">Batch ID3 correction complete!</string>
   <string name="billboard">Billboard</string>
   <string name="buffering">Buffering...</string>
   <string name="cancel">Cancel</string>
@@ -29,6 +32,14 @@
   <string name="click_to_shuffle">Click to shuffle all</string>
   <string name="confirm">Confirm</string>
   <string name="continue_when_wifi_disconnect">Continue listening to online music via mobile network</string>
+  <string name="correct_id3_by_internet">Auto correct ID3 using mobile Internet</string>
+  <string name="correct_id3_failed">ID3 data correction failed!</string>
+  <string name="correct_id3_not_support">ID3 correction is not supported by this file type.</string>
+  <string name="correct_id3_open_other_connect">Please turn on ID3 data correction using the mobile Internet setting</string>
+  <string name="correct_id3_settings">ID3 correction settings</string>
+  <string name="correct_id3_start">Begin ID3 correction</string>
+  <string name="correct_id3_success">ID3 corrected successfully</string>
+  <string name="correct_id3_summary">Method of correction may result in high mobile data charges. Do not leave open after use</string>
   <string name="create_confirm">Confirm</string>
   <string name="create_equalzier_create_text_prompt">Equalizer effect name</string>
   <string name="create_playlist_create_text_prompt">Playlist name</string>

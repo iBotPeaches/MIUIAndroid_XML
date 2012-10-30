@@ -1480,6 +1480,7 @@ Some apps may not work until updated by their developers."</string>
   <string formatted="false" name="sync_one_time_sync">"Touch to sync now %1$s"</string>
   <string name="sync_plug" />
   <string name="sync_settings">Accounts &amp; sync</string>
+  <string name="sync_wifi_label">Wi-Fi Sync settings</string>
   <string name="system_package">"System updates can't be installed on external media."</string>
   <string name="system_update_settings_list_item_summary" />
   <string name="system_update_settings_list_item_title">System updates</string>
@@ -1689,7 +1690,14 @@ Some apps may not work until updated by their developers."</string>
   <string name="virus_scan_app_stop_scan">Stop Scan</string>
   <string name="virus_scan_app_uninstall">Batch uninstall (%d)</string>
   <string name="virus_scan_app_waiting">Waiting for</string>
+  <string name="virus_scanner_auto_update">Auto update</string>
   <string name="virus_scanner_kinsoft_provider">Security support provided by Kingsoft Phone Guardian</string>
+  <string name="virus_scanner_lib_already_latest">Virus database up-to-date</string>
+  <string name="virus_scanner_lib_update">Virus database update available</string>
+  <string name="virus_scanner_lib_update_failed">Virus database update failed!</string>
+  <string name="virus_scanner_lib_updating">Updating database...</string>
+  <string name="virus_scanner_manual_update">Update manually</string>
+  <string name="virus_scanner_provider">Security provided by %s</string>
   <string name="virus_scanner_scan">Scan now</string>
   <string name="virus_scanner_scanning">Check apps for viruses</string>
   <string name="virus_scanner_select_Cancel">Cancel</string>
