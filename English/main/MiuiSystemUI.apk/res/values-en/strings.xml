@@ -241,7 +241,6 @@
   <string name="status_bar_toggle_mute">Silent</string>
   <string name="status_bar_toggle_network_type">Network type</string>
   <string name="status_bar_toggle_power_mode">Power mode</string>
-  <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
   <string name="status_bar_toggle_privacy_mode">Guard</string>
   <string name="status_bar_toggle_reboot">Reboot</string>
   <string name="status_bar_toggle_rotate">Rotation</string>
