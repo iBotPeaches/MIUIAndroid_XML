@@ -64,6 +64,7 @@
   <string name="theme_description_title_default">Default</string>
   <string name="theme_format_wrong_content">Theme format is wrong</string>
   <string name="theme_import">Import from SD card</string>
+  <string name="theme_importing">Importing theme…</string>
   <string name="theme_select_others">Others</string>
   <string name="third_party_pickers_activity_title">Set %1$s</string>
   <string name="title_component">Mix</string>

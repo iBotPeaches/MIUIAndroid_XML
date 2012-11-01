@@ -8,6 +8,7 @@
   <string name="add_music">Add music</string>
   <string name="add_nickname">Nickname</string>
   <string name="add_nickname_title">Editing nicknames</string>
+  <string name="add_number_to_sender">Add number to %s</string>
   <string name="add_phrase">Phrase</string>
   <string name="add_picture">Add picture</string>
   <string name="add_slide">Add slide</string>
@@ -168,6 +169,7 @@
   <string name="loading_all_messages">Loading all messages...</string>
   <string name="loading_contacts">Loading contacts...</string>
   <string name="loading_conversations">Loading conversations...</string>
+  <string name="loading_mms">Loading MMS…</string>
   <string name="me">Me</string>
   <string name="menu_add_address_to_contacts">Add %s to Contacts</string>
   <string name="menu_add_to_contacts">Add to Contacts</string>

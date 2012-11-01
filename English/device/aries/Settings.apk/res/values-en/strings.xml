@@ -3,6 +3,7 @@
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_title">Enable access control</string>
+  <string name="ac_privacy_mode_sum">Enter access control password to disable guard mode</string>
   <string name="ac_privacy_mode_title">Protect guarded mode</string>
   <string name="ac_set_apps_title">Protect applications</string>
   <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
@@ -1091,6 +1092,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="pref_volume_wake_title">Volume rocker wake</string>
   <string name="preference_change_password_title">Change password</string>
   <string name="preferred_media_app_summary">Choose Music player</string>
+  <string name="privacy_mode_enable_sum">Hide call log, messages and other data when using guard mode</string>
   <string name="privacy_mode_enable_title">Enable guarded mode</string>
   <string name="privacy_protect_title">Privacy protection</string>
   <string name="privacy_settings">Backup &amp; reset</string>
