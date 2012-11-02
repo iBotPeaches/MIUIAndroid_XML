@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_0116">false</string>
-  <string name="APKTOOL_DUMMY_0117">false</string>
   <string name="accessibility_airplane_mode">Airplane mode.</string>
   <string name="accessibility_back">Back</string>
   <string name="accessibility_battery_full">Battery full.</string>
@@ -229,28 +227,6 @@
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_12_simple">h:mm</string>
   <string name="status_bar_time_format_24">HH:mm</string>
-  <string name="status_bar_toggle_ac">Privacy</string>
-  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-  <string name="status_bar_toggle_brightness">Backlight</string>
-  <string name="status_bar_toggle_data">Data</string>
-  <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
-  <string name="status_bar_toggle_divider">More</string>
-  <string name="status_bar_toggle_flight_mode">Airplane</string>
-  <string name="status_bar_toggle_gps">GPS</string>
-  <string name="status_bar_toggle_lock">Lock</string>
-  <string name="status_bar_toggle_mute">Silent</string>
-  <string name="status_bar_toggle_network_type">Network type</string>
-  <string name="status_bar_toggle_power_mode">Power mode</string>
-  <string name="status_bar_toggle_privacy_mode">Guard</string>
-  <string name="status_bar_toggle_reboot">Reboot</string>
-  <string name="status_bar_toggle_rotate">Rotation</string>
-  <string name="status_bar_toggle_screen_button">Screen keys</string>
-  <string name="status_bar_toggle_screenshot">Screenshot</string>
-  <string name="status_bar_toggle_shutdown">Power</string>
-  <string name="status_bar_toggle_sync">Sync</string>
-  <string name="status_bar_toggle_torch">Torch</string>
-  <string name="status_bar_toggle_vibrate">Vibrate</string>
-  <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_use_physical_keyboard">Use physical keyboard</string>
   <string name="tab_notifications_lable">Notifications</string>
   <string name="tab_toggles_lable">Toggles</string>

@@ -5148,13 +5148,11 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
-    <item type="array" name="android_config_virtualKeyVibePattern">@android:array/config_virtualKeyVibePattern</item>
-    <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
-    <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
-    <item type="array" name="android_config_longPressVibePattern">@android:array/config_longPressVibePattern</item>
-    <item type="array" name="android_config_keyboardTapVibePattern">@android:array/config_keyboardTapVibePattern</item>
-    <item type="array" name="android_special_locale_names">@*android:array/special_locale_names</item>
-    <item type="array" name="android_special_locale_codes">@*android:array/special_locale_codes</item>
+    <item type="array" name="android_config_virtualKeyVibePattern">@*android:array/config_virtualKeyVibePattern</item>
+    <item type="array" name="android_config_mobile_hotspot_provision_app">@*android:array/config_mobile_hotspot_provision_app</item>
+    <item type="array" name="android_common_nicknames">@*android:array/common_nicknames</item>
+    <item type="array" name="android_config_longPressVibePattern">@*android:array/config_longPressVibePattern</item>
+    <item type="array" name="android_config_keyboardTapVibePattern">@*android:array/config_keyboardTapVibePattern</item>
     <integer-array name="detailed_am_pm_segments">
         <item>0</item>
         <item>1</item>
@@ -5173,4 +5171,6 @@
         <item>PM</item>
         <item>PM</item>
     </string-array>
+    <item type="array" name="android_special_locale_codes">@*android:array/special_locale_codes</item>
+    <item type="array" name="android_special_locale_names">@*android:array/special_locale_names</item>
 </resources>
