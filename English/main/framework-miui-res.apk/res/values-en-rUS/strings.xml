@@ -452,7 +452,7 @@
   <string name="theme_update_complete_content_fail">, %1$d failed</string>
   <string name="theme_update_complete_content_success">%1$d succesful</string>
   <string name="theme_update_complete_title">Upgrade Finished</string>
-  <string name="theme_update_request_content">The new format of theme package is needed, the upgrade process may take a long time, theme packages which is are not downloaded from the theme market are no longer usable, please click OK to upgrade now.</string>
+  <string name="theme_update_request_content">New format of themes, the upgrade process may take a long time, theme packages which are not downloaded from the theme market will no longer work, please click OK to upgrade now.</string>
   <string name="theme_update_request_continue_content">The last upgrade process for theme packages was not completed, okay to continue?</string>
   <string name="theme_update_request_title">Theme Upgrade</string>
   <string name="theme_updating_content">Upgrading %1$d/%2$d, please be patient</string>
