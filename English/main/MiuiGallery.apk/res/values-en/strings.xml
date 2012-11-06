@@ -50,6 +50,13 @@
   <string name="cloud_gallery_space_full">Upload failed!, Cloud gallery storage full</string>
   <string name="cloud_media_set_set">Cloud albums</string>
   <string name="confirm_delete">Delete</string>
+  <string formatted="false" name="confirm_delete_album">Are you sure you want to delete %s albums (including %s items)?</string>
+  <string name="confirm_delete_folders_and_pictures">Are you sure you want to delete %s?</string>
+  <string formatted="false" name="confirm_delete_folders_including">%s folders (including %s)</string>
+  <string name="confirm_delete_including_null">0 items</string>
+  <string name="confirm_delete_pictures">%s pictures</string>
+  <string name="confirm_delete_system_album">%s is system album, are you sure you want to delete?</string>
+  <string name="confirm_delete_videos">%s videos</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Contact photo</string>
   <string name="contrast">Contrast</string>

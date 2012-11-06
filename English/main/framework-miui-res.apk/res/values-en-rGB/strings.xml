@@ -473,6 +473,7 @@
   <string name="user_agreement3">" and "</string>
   <string name="user_agreement4">Privacy policy</string>
   <string name="user_agreement5">，Click OK shows that you agree to and are willing to comply with the above content, click Cancel to exit.</string>
+  <string name="v5_icon_menu_bar_more_item_label">More</string>
   <string name="valentines_day" />
   <string name="vernal_equinox" />
   <string name="wake_alarm_message">Pause alarm. Remind in %s </string>
