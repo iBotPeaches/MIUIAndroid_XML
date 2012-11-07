@@ -160,6 +160,7 @@
   <string name="operation_unfavorite">Remove from Favorites</string>
   <string name="pan_settting">MiDrive settings</string>
   <string name="remote_management">FTP</string>
+  <string name="rename">Rename</string>
   <string name="rename_description">Renaming, please wait…</string>
   <string name="rename_failed">Renaming《%1$s》failed</string>
   <string name="rename_success">Renamed《%1$s》successfully</string>

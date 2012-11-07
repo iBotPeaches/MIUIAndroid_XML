@@ -46,6 +46,8 @@
   <string name="error_dup_phone">Phone has been registered</string>
   <string name="error_has_bought_summary">You have already purchased this product</string>
   <string name="error_has_bought_title">Repeat purchase</string>
+  <string name="error_illegal_order_summary">An error has occurred processing your order, please try again later</string>
+  <string name="error_illegal_order_title">Order error!</string>
   <string name="error_mili_summary">Insufficient Mi credits, please topup</string>
   <string name="error_mili_title">Insufficient Mi credits</string>
   <string name="error_network">Network error</string>
@@ -62,6 +64,8 @@
   <string name="error_sim_not_ready">SIM not ready</string>
   <string name="error_time">Selected date/time cannot be used</string>
   <string name="error_unknown">Unknown error: %1$s</string>
+  <string name="error_user_id_mismatch_summary">Please check your account details and try again</string>
+  <string name="error_user_id_mismatch_title">Authentication error!</string>
   <string name="failed_to_send_activate_email">Failed to send an activation E-mail</string>
   <string name="fee">%1$s Mi credits</string>
   <string name="filter_query">Filter query</string>
