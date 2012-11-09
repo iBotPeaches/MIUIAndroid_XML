@@ -5173,4 +5173,16 @@
     </string-array>
     <item type="array" name="android_special_locale_codes">@*android:array/special_locale_codes</item>
     <item type="array" name="android_special_locale_names">@*android:array/special_locale_names</item>
+    <array name="number_progress_numbers">
+        <item>@drawable/number_progress_view_0</item>
+        <item>@drawable/number_progress_view_1</item>
+        <item>@drawable/number_progress_view_2</item>
+        <item>@drawable/number_progress_view_3</item>
+        <item>@drawable/number_progress_view_4</item>
+        <item>@drawable/number_progress_view_5</item>
+        <item>@drawable/number_progress_view_6</item>
+        <item>@drawable/number_progress_view_7</item>
+        <item>@drawable/number_progress_view_8</item>
+        <item>@drawable/number_progress_view_9</item>
+    </array>
 </resources>
