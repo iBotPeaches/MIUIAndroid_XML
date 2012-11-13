@@ -416,11 +416,13 @@
   <string name="slight_heat" />
   <string name="spring_begins" />
   <string name="status_bar_toggle_ac">Privacy</string>
+  <string name="status_bar_toggle_auto_brightness">Auto-Brightness</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Backlight</string>
   <string name="status_bar_toggle_data">Data</string>
   <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
   <string name="status_bar_toggle_divider">More</string>
+  <string name="status_bar_toggle_drive_mode">Car Mode</string>
   <string name="status_bar_toggle_flight_mode">Airplane</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Lock</string>
