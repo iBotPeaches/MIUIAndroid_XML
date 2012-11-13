@@ -158,6 +158,8 @@
   <string name="has_draft">Draft</string>
   <string name="has_invalid_recipient">Invalid recipient(s): %1$s</string>
   <string name="hidden_sender_address">Hidden sender address</string>
+  <string name="in_calling">Calling</string>
+  <string name="in_sms">Message</string>
   <string name="inline_subject">Subject: %s</string>
   <string name="insufficient_drm_rights">Insufficient DRM rights detected.</string>
   <string name="invalid_destination">Invalid destination address.</string>
@@ -422,10 +424,12 @@
   <string name="slide_number">Slide %s</string>
   <string name="slide_show_part">Part %1$s/%2$s</string>
   <string name="slideshow_activity">Slideshow</string>
+  <string name="sms_content">Message content</string>
   <string name="sms_full_body">Incoming message rejected due to full memory. Please delete old messages.</string>
   <string name="sms_full_title">Text message memory full</string>
   <string name="sms_rejected_body">Incoming message rejected due to unknown reason.</string>
   <string name="sms_rejected_title">Text message rejected</string>
+  <string name="sms_sender">From</string>
   <string name="status_failed">Unsuccessful</string>
   <string name="status_label">"Status: "</string>
   <string name="status_none">(None)</string>

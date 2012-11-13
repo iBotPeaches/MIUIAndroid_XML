@@ -664,6 +664,19 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="dock_sounds_enable_summary_on">Play sound when inserting or removing phone from dock</string>
   <string name="dock_sounds_enable_title">Dock insert sound</string>
   <string name="does_not_exist">"App doesn't exist."</string>
+  <string name="drive_mode">Car mode</string>
+  <string name="drive_mode_auto_reply">Auto reply</string>
+  <string name="drive_mode_auto_sms_reply_content">Sorry, I am driving now. I will contact you later.</string>
+  <string name="drive_mode_auto_sms_reply_content_title">Message reply content</string>
+  <string name="drive_mode_calling_auto_sms_reply">Auto reply call with SMS</string>
+  <string name="drive_mode_invert_stop_report">Turn over to stop reports</string>
+  <string name="drive_mode_only_contact_reply">Only reply to people in your contact list</string>
+  <string name="drive_mode_phone_report">Call report</string>
+  <string name="drive_mode_settings">Car mode Settings</string>
+  <string name="drive_mode_sms_auto_sms_reply">SMS auto reply</string>
+  <string name="drive_mode_sms_report">SMS report</string>
+  <string name="drive_mode_title">Set voice reports and auto reply</string>
+  <string name="drive_mode_voice_report">Voice report</string>
   <string name="dtmf_tone_enable_title">Dial pad touch tones</string>
   <string name="emergency_tone_summary">Set behavior when an emergency call is placed</string>
   <string name="emergency_tone_title">Emergency tone</string>
@@ -1670,6 +1683,7 @@ Try the following:
   <string name="virus_scan_app_uninstall">Batch uninstall (%d)</string>
   <string name="virus_scan_app_waiting">Waiting for</string>
   <string name="virus_scanner_auto_update">Auto update</string>
+  <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
   <string name="virus_scanner_kinsoft_provider">Security support provided by Kingsoft Phone Guardian</string>
   <string name="virus_scanner_lib_already_latest">Virus database up-to-date</string>
   <string name="virus_scanner_lib_update">Virus database update available</string>

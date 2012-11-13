@@ -108,6 +108,8 @@
   <string name="starting_preset_app">Starting...</string>
   <string name="title_select_live_folder">Select folder</string>
   <string name="title_select_shortcut">Select shortcut</string>
+  <string name="toggle_select_title">Select toggle</string>
+  <string name="toggle_title">Toggle</string>
   <string name="transformation_type_classic">Classic</string>
   <string name="transformation_type_classic_no_overshoot">Classic (No overshoot)</string>
   <string name="transformation_type_crossfade">Crossfade</string>
