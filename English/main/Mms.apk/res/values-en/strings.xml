@@ -471,6 +471,7 @@
   <string name="undelivered_msg_dialog_body">"Unable to send this message. Attempt made: %s."</string>
   <string name="undelivered_msg_dialog_title">Undelivered message</string>
   <string name="undelivered_sms_dialog_body">Unable to send this message.</string>
+  <string name="unknown_num">Unknown number</string>
   <string name="unknown_sender">Unknown sender</string>
   <string name="unsupported_media_format">Unsupported %1$s format</string>
   <string name="view">View</string>

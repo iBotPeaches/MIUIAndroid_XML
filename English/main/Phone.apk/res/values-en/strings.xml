@@ -984,6 +984,7 @@
   <string name="turnover_mute_title_miui">Flip to silence</string>
   <string name="undefined_miui">Undefined</string>
   <string name="unknown">Unknown</string>
+  <string name="unknown_num">Unknown number</string>
   <string name="unlock_failed">Network unlock request unsuccessful.</string>
   <string name="unlock_success">Network unlock successful.</string>
   <string name="updating_fdn_contact">Updating fixed dialing number (FDN)...</string>
