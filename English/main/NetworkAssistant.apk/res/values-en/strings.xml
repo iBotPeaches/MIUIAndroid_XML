@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about">About</string>
   <string name="adjust_traffic_auto_adjust_hint">System inquires and adjusts data regularly from operators. Need to set up operator information</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Auto adjustment is enabled and will auto adjust traffic data regularly</string>
   <string name="adjust_traffic_auto_adjust_title">Auto adjust traffic</string>
@@ -83,6 +84,9 @@
   <string name="notify_carrier_settings_title">You have not configured your service provider.Configure now?</string>
   <string name="notify_traffic_settings_cancel_hint">Notifications and traffic monitoring will be disabled. Exit now?</string>
   <string name="notify_traffic_settings_title">You have not configured your data plan. Configure now?</string>
+  <string name="overseas_menu_traffic_adjust">Adjust manually</string>
+  <string name="overseas_menu_traffic_settings">Data Traffic Limit</string>
+  <string name="overseas_unknown_traffic_hint">Data traffic limit has not been configured. Configure now?</string>
   <string name="plate_traffic_already_used">Used (%s)</string>
   <string name="plate_traffic_exceed">Exceeded (%s)</string>
   <string name="plate_traffic_remain">Remaining (%s)</string>
