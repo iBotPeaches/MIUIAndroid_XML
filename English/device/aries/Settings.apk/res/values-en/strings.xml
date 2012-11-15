@@ -687,7 +687,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dolby_bassboost_high">High</string>
   <string name="dolby_bassboost_low">Low</string>
   <string name="dolby_bassboost_normal">Normal</string>
-  <string name="dolby_bassboost_title">Bass Boost: </string>
+  <string name="dolby_bassboost_title">Bass Boost:\u0020</string>
   <string name="dolby_effects">Dolby Effects</string>
   <string name="dolby_eq_auto">Custom</string>
   <string name="dolby_eq_blues">Blues</string>
@@ -720,8 +720,8 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dolby_roomsize_high">Large room</string>
   <string name="dolby_roomsize_low">Small room</string>
   <string name="dolby_roomsize_normal">Normal room</string>
-  <string name="dolby_roomsize_summary">Surround sound mode is only available when using headphones</string>
-  <string name="dolby_roomsize_title">Surround sound mode: </string>
+  <string name="dolby_roomsize_summary">Surround sound mode available when using headphones</string>
+  <string name="dolby_roomsize_title">Surround sound mode:\u0020</string>
   <string name="drive_mode">Car mode</string>
   <string name="drive_mode_auto_reply">Auto reply</string>
   <string name="drive_mode_auto_sms_reply_content">Sorry, I am driving now. I will contact you later.</string>
@@ -1211,7 +1211,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="radioInfo_service_out">Out of service</string>
   <string name="radioInfo_unknown">unknown</string>
   <string name="radio_controls_summary">Manage Wi-Fi, Bluetooth, airplane mode, mobile networks, &amp; VPNs</string>
-  <string name="radio_controls_title">More…</string>
+  <string name="radio_controls_title">More Settings</string>
   <string name="radio_info_band_mode_label">Select radio band</string>
   <string name="radio_info_call_redirect_label">Call redirect:</string>
   <string name="radio_info_call_status_label">Call status:</string>

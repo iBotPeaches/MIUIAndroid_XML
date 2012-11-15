@@ -22,8 +22,8 @@
   <string name="best_update">2. Best update</string>
   <string name="boot_recovery">Reboot to Recovery</string>
   <string name="cancel_download_buton_text">Cancel</string>
-  <string name="check_update_policy">Check update settings</string>
-  <string name="check_update_when_wifi_available">Check for updates only using Wi-Fi</string>
+  <string name="check_update_policy">Check for updates</string>
+  <string name="check_update_when_wifi_available">Only with Wi-Fi</string>
   <string name="checking_for_updates">Checking for updates...</string>
   <string name="choose_recommend">Please choose whether or not to recommend</string>
   <string name="confirm_download_cancelation_dialog_message">Are you sure you want to cancel the current download?</string>
