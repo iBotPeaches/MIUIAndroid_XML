@@ -699,6 +699,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dolby_eq_electronic">Electronic</string>
   <string name="dolby_eq_enter_alert_msg">Do you want to open the Dolby Equalizer mode?</string>
   <string name="dolby_eq_enter_alert_title">Open Dolby EQ mode</string>
+  <string name="dolby_eq_flat">Flat</string>
   <string name="dolby_eq_hiphop">Hiphop</string>
   <string name="dolby_eq_jazz">Jazz</string>
   <string name="dolby_eq_jungle">Jungle</string>
