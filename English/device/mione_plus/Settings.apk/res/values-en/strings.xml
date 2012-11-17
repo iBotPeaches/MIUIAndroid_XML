@@ -662,10 +662,10 @@
   <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
-  <string name="enable_assist_key_long_press">Long-press Menu to launch voice assist</string>
-  <string name="enable_back_long_press">Long-press Back to kill App</string>
+  <string name="enable_assist_key_long_press">Long-press to open voice app</string>
+  <string name="enable_back_long_press">Long-press to close app</string>
   <string name="enable_compatibility">Scale app</string>
-  <string name="enable_snapshot_screenlock">Long-press Back key to take snapshot in lock screen</string>
+  <string name="enable_snapshot_screenlock">Long-press to take screenshot</string>
   <string name="enable_text">Enable</string>
   <string name="enter_password">Type password to decrypt storage</string>
   <string name="erase_application">Erase applications</string>

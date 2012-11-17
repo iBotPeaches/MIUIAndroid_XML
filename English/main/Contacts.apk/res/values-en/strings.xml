@@ -118,7 +118,7 @@
   <string name="config_export_vcard_type">default</string>
   <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp" />
-  <string formatted="false" name="confirm_delete_selected_call_log">Confirm to delete the %1d selected groups of call records?</string>
+  <string formatted="false" name="confirm_delete_selected_call_log">Delete the %1d selected groups of call records?</string>
   <string formatted="false" name="confirm_export_message">Export your contact list to file \"%s\"?</string>
   <string name="confirm_export_title">Confirm export</string>
   <string name="connections">Connections</string>
@@ -165,7 +165,7 @@
   <string name="delete_duplicate_message">"Merging ... "</string>
   <string formatted="false" name="delete_group_dialog_message">"Are you sure you want to delete the group '%1$s'? (Contacts themselves will not be deleted.)"</string>
   <string name="delete_group_dialog_title">Delete group</string>
-  <string name="delete_unknown_contact_calllog_title">"Confirm to delete unknown contact's call logs?"</string>
+  <string name="delete_unknown_contact_calllog_title">"Delete unknown contact's call logs?"</string>
   <string name="description_add_contact">Add contact</string>
   <string formatted="false" name="description_call">Call %1$s</string>
   <string name="description_call_log_incoming_call">Incoming call</string>
