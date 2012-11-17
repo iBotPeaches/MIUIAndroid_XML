@@ -103,7 +103,7 @@
   <string name="dlg_error_title">USB operation unsuccessful</string>
   <string name="dlg_ok">OK</string>
   <string name="dreams_dock_launcher">Activate screen saver</string>
-  <string name="drive_mode_tip">You are in car mode, please drive carefully when operating your phone</string>
+  <string name="drive_mode_tip">Car mode enabled - Please drive carefully</string>
   <string name="ext_media_badremoval_notification_message">Unmount SD card storage before removing to avoid data loss.</string>
   <string name="ext_media_badremoval_notification_title">SD card storage unexpectedly removed</string>
   <string name="ext_media_checking_notification_message">Checking for errors.</string>

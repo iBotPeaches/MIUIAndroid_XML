@@ -729,12 +729,12 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="drive_mode_auto_sms_reply_content_title">Message reply content</string>
   <string name="drive_mode_calling_auto_sms_reply">Auto reply call with SMS</string>
   <string name="drive_mode_invert_stop_report">Turn over to stop reports</string>
-  <string name="drive_mode_only_contact_reply">Only reply to people in your contact list</string>
-  <string name="drive_mode_phone_report">Call report</string>
-  <string name="drive_mode_settings">Car mode Settings</string>
+  <string name="drive_mode_only_contact_reply">To contact list</string>
+  <string name="drive_mode_phone_report">Calls</string>
+  <string name="drive_mode_settings">Enable Car mode</string>
   <string name="drive_mode_sms_auto_sms_reply">SMS auto reply</string>
-  <string name="drive_mode_sms_report">SMS report</string>
-  <string name="drive_mode_title">Set voice reports and auto reply</string>
+  <string name="drive_mode_sms_report">Messages</string>
+  <string name="drive_mode_title">Car mode Settings</string>
   <string name="drive_mode_voice_report">Voice report</string>
   <string name="dtmf_tone_enable_title">Dial pad touch tones</string>
   <string name="emergency_tone_summary">Set behavior when an emergency call is placed</string>
@@ -753,9 +753,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="enable_traces_summary_none">No traces currently enabled</string>
   <string name="enable_traces_summary_num">%1$d traces currently enabled</string>
   <string name="enable_traces_title">Enable traces</string>
-  <string name="enforce_read_external_confirm_message">"When USB storage is protected, apps must request permission to read data from external storage.
-
-Some apps may not work until updated by their developers."</string>
+  <string name="enforce_read_external_confirm_message">"When USB storage is protected, apps must request permission to read data from external storage. Some apps may not work until updated by their developers."</string>
   <string name="enforce_read_external_confirm_title">Protect USB storage?</string>
   <string name="enforce_read_external_summary">Apps must request permission to read USB storage</string>
   <string name="enforce_read_external_title">Protect USB storage</string>
