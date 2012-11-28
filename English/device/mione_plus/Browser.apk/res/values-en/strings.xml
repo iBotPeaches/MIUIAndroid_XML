@@ -150,6 +150,7 @@
   <string name="exported_bookmark_file_name">My favorites</string>
   <string name="file_picker_new_folder">New folder</string>
   <string name="file_picker_sdcard_not_found">SD card not detected, please check if the device is currently mounted or in use</string>
+  <string name="find_on_page">Find on page</string>
   <string name="folder_name">Folder name</string>
   <string name="forward">Forward</string>
   <string name="geolocation_permissions_prompt_dont_share">Decline</string>
@@ -399,6 +400,7 @@
   <string name="search_hint">Search or type URL</string>
   <string name="search_label">Browser</string>
   <string name="search_settings_description">Bookmarks and web history</string>
+  <string name="search_sogou">Segou</string>
   <string name="search_the_web">Search the web</string>
   <string name="search_yahoo">Yahoo</string>
   <string name="security_warning">Security warning</string>
