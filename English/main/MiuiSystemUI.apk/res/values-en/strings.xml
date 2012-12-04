@@ -189,6 +189,10 @@
   <string name="settings_toggle_position_divider_page">%1$d toggles placed above bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
+  <string name="sleep_notification" />
+  <string name="sleep_notification_action_fail" />
+  <string name="sleep_notification_action_start" />
+  <string name="sleep_notification_action_stop" />
   <string name="status_bar_accessibility_dismiss_recents">Dismiss recent apps</string>
   <string name="status_bar_clear_all_button">Clear</string>
   <string name="status_bar_date_format">MMMM d, yyyy</string>
