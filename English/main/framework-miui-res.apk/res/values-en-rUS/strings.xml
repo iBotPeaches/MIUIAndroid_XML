@@ -381,6 +381,9 @@
   <string name="resource_download">Download</string>
   <string name="resource_downloaded_title">Downloaded resources</string>
   <string name="resource_downloading">Downloading</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Theme cannot run on the current device. Your account is limited to 10 mobile devices. Please try another Xiaomi account.</string>
+  <string name="resource_get_auth_exceed_max_limit_title">Resource usage limit reached</string>
+  <string name="resource_importing">Importing</string>
   <string name="resource_local">Local %1$s</string>
   <string name="resource_mute">None</string>
   <string name="resource_no_result">No results found</string>
@@ -390,6 +393,8 @@
   <string name="resource_see_more">See more</string>
   <string name="resource_select">Select</string>
   <string name="resource_selected_number">Selected %1$d resource(s)</string>
+  <string name="resource_server_out_of_service">Server currently unavailable, please try again later.</string>
+  <string name="resource_switch_account">Switch account</string>
   <string name="resource_system_title">System resources</string>
   <string name="resource_title">Resource Detail</string>
   <string name="resource_transparent_wallpaper">Transparent</string>
