@@ -16,6 +16,6 @@ Last modified 12 / 03 / 2012 (Dec 2012)
 
 For more information regarding the structure of this REPO. Please see this Doc: 
 
-https://docs.google.com/document/d/1H8DoN6nnbsOGB_fauBiCcpyB4OAIEHjqEiJX322v45Y
+http://miui.connortumbleson.com/dev_guide
 
 It can be used in other languages to be included in multi language ROM
