@@ -7,7 +7,7 @@ licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 Based on a work at miui.com http://miui.com
 
-Permissions beyond the scope of this license may be available at http://miuiandroid.com/terms-conditions/
+Permissions beyond the scope of this license may be available at http://miuiandroid.com/community/help/terms
 
 Last modified 12 / 03 / 2012 (Dec 2012)
 
@@ -16,7 +16,6 @@ Last modified 12 / 03 / 2012 (Dec 2012)
 
 For more information regarding the structure of this REPO. Please see this Doc: 
 
-https://docs.google.com/document/d/1H8DoN6nnbsOGB_fauBiCcpyB4OAIEHjqEiJX322v45Y/edit
+https://docs.google.com/document/d/1H8DoN6nnbsOGB_fauBiCcpyB4OAIEHjqEiJX322v45Y
 
 It can be used in other languages to be included in multi language ROM
-
