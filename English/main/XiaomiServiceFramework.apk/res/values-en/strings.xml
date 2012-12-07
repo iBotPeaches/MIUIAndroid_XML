@@ -22,6 +22,9 @@
   <string name="basic_info">Basic info</string>
   <string name="btn_activate">Activate</string>
   <string name="btn_back">Back</string>
+  <string name="btn_call">Call support</string>
+  <string name="btn_count_down_auto">%1$s seconds</string>
+  <string name="btn_count_down_wait">%1$s seconds to wait</string>
   <string name="btn_mili_center_recharge">Topup Mi credits</string>
   <string name="btn_query">Enquire now</string>
   <string name="btn_recharge_large">Topup now</string>
@@ -158,6 +161,7 @@
   <string name="prev">Back</string>
   <string name="progress_alipay_creating">Generating Alipay order...</string>
   <string name="progress_alipay_installing">Installing Alipay mobile security plugin...</string>
+  <string name="progress_connecting">Connecting...</string>
   <string name="progress_creating">Retrieving order information...</string>
   <string name="progress_error_common">Recharge failed, please try again later.</string>
   <string name="progress_error_contact_server">"Still not reflected. Please contact our partner company's customer service in Shenzhou on the following number: 400-001-0195，Please provide the serial number: %1$s"</string>
@@ -169,12 +173,16 @@
   <string name="progress_loading">Processing, please wait...</string>
   <string name="progress_prepaid_creating">Generating topup order...</string>
   <string name="progress_querying">Processing payment query…</string>
+  <string name="progress_submit_hint">Expected in approx 3 minutes</string>
   <string name="progress_submit_hint_init">Topup will be reflected within 3 minutes, it will auto enquire after %1$s seconds</string>
   <string name="progress_submit_hint_query">Topup will be reflected within 3 minutes, you can enquire after %1$s seconds</string>
   <string name="progress_submit_summary">Topup: %1$s RMB</string>
   <string name="progress_submit_title">Topup request submitted</string>
   <string name="progress_success_summary">Account balance: %1$sMi credits</string>
   <string name="progress_success_title">%1$s Mi credits topup complete</string>
+  <string name="progress_warning_contact_server">"Message was not delivered but will be sent soon:
+   1. Contact customer services on: %1$s
+   2. Provide this serial number: %2$s"</string>
   <string name="quick_login_title">Authentication is required, please input your password</string>
   <string name="recharge_alipay_summary">Alipay topup</string>
   <string name="recharge_alipay_title">Alipay</string>

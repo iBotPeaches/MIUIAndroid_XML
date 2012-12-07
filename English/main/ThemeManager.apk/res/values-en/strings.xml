@@ -108,6 +108,7 @@
   <string name="theme_import_stoping">Stopping...</string>
   <string name="theme_import_success">Import successful</string>
   <string name="theme_importing">Importing theme…</string>
+  <string name="theme_is_imported">Theme imported</string>
   <string name="theme_pick_import_fail">Import failed</string>
   <string name="theme_sdcard_importing">Importing from SD card</string>
   <string name="theme_select_others">Others</string>
