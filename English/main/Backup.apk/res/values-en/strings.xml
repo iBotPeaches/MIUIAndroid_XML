@@ -12,6 +12,7 @@
   <string name="auto_backup_only_wifi">Automatically backup only when Wi-Fi connected</string>
   <string name="auto_backup_open">Enable automatic backup</string>
   <string name="auto_backup_progress">Performing automatic backup please wait...</string>
+  <string name="auto_backup_setting">Automatic Backup Settings</string>
   <string name="auto_backup_time">Schedule backup</string>
   <string name="backup">Backup</string>
   <string name="backup_delete">Delete:</string>
