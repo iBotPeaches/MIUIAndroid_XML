@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">Are your sure to allow %1$s to get ROOT permission?</string>
+</resources>
