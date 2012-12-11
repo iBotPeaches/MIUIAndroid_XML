@@ -90,6 +90,8 @@
   <string name="theme_format_wrong_content">Theme format is wrong</string>
   <string name="theme_import">Import from SD card</string>
   <string name="theme_import_activity_label">Upgrade Theme</string>
+  <string name="theme_import_data">Importing theme data</string>
+  <string name="theme_import_fail">Failed to import %1$s</string>
   <string name="theme_import_from_sdcard">Import from SD card</string>
   <string name="theme_import_importing">Upgrading.. %1$d rest</string>
   <string name="theme_import_item_delete_request_button">Delete</string>
