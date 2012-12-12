@@ -144,6 +144,7 @@
   <string name="prepaid_china_telcom">China Telecom</string>
   <string name="prepaid_china_unicom">China Unicom</string>
   <string name="prepaid_edit_limit">digits</string>
+  <string name="prepaid_error_card_length">Please input the correct prepaid card number or password</string>
   <string name="prepaid_error_card_number">Please input the correct topup amount</string>
   <string name="prepaid_error_carrier">Please select your carrier</string>
   <string name="prepaid_error_denomination">Please select topup amount</string>
