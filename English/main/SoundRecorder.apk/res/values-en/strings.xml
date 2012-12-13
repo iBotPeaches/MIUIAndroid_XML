@@ -43,6 +43,7 @@
   <string name="pref_title_record_type">Recording file type</string>
   <string name="preferences_title">Settings</string>
   <string name="record_list">Recordings list</string>
+  <string name="record_saving">Saving recording, please wait!</string>
   <string name="recording">Recording...</string>
   <string name="recording_stopped">Recording has stopped</string>
   <string name="sd_card_not_available">SD card is not available</string>

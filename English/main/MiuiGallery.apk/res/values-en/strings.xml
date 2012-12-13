@@ -46,6 +46,7 @@
   <string name="close">Close</string>
   <string name="cloud_albums">Cloud Albums</string>
   <string name="cloud_gallery_no_pictures">No pictures found in MiCloud</string>
+  <string name="cloud_gallery_recyclebin_full">Cloud Recycle bin full, please empty recycle bin by visiting i.xiaomi.com.</string>
   <string name="cloud_gallery_setting">Cloud gallery settings</string>
   <string name="cloud_gallery_space_full">Upload failed!, Cloud gallery storage full</string>
   <string name="cloud_media_set_set">Cloud albums</string>
