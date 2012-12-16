@@ -438,7 +438,6 @@
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Backlight</string>
   <string name="status_bar_toggle_data">Data</string>
-  <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
   <string name="status_bar_toggle_divider">More</string>
   <string name="status_bar_toggle_drive_mode">Car Mode</string>
   <string name="status_bar_toggle_flight_mode">Airplane</string>
@@ -500,5 +499,4 @@
   <string name="white_dews" />
   <string name="winter_begins" />
   <string name="winter_solstice" />
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
