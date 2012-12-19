@@ -21,6 +21,7 @@
   <string name="fm_record">FM recording (%d)</string>
   <string formatted="false" name="hour">%d hour(s)</string>
   <string name="insert_sd_card">SD card is required</string>
+  <string name="loading_duration">Loading duration...</string>
   <string name="mark_now">(Current)</string>
   <string name="max_length_reached">Maximum length reached</string>
   <string name="menu_setting">Settings</string>
@@ -42,6 +43,7 @@
   <string name="pref_title_enable_sound_effect">Enable sound effect</string>
   <string name="pref_title_record_type">Recording file type</string>
   <string name="preferences_title">Settings</string>
+  <string name="preparing_playback">Loading recording, please wait.</string>
   <string name="record_list">Recordings list</string>
   <string name="record_saving">Saving recording, please wait!</string>
   <string name="recording">Recording...</string>
