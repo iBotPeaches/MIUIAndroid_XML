@@ -58,6 +58,7 @@
   <string name="finish_traffic_settings_title">Adjust traffic data</string>
   <string name="fire_rule_program_list">Apps list</string>
   <string name="fire_rule_title_bar">fire_rule_title_bar</string>
+  <string name="fire_wall_is_closed">Firewall is not active</string>
   <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="i_known_button">OK</string>
