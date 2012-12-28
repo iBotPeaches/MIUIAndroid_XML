@@ -116,6 +116,10 @@
   <string name="theme_select_others">Others</string>
   <string name="theme_update_request_content">Theme must be upgraded to be functional. This may use network traffic, please click Upgrade to continue</string>
   <string name="theme_update_request_title">Theme upgrade</string>
+  <string name="theme_upgrade_request_cancel">Cancel</string>
+  <string name="theme_upgrade_request_content">Your local themes need to be converted to improve efficiency. It may take several minutes to convert and your phone may become unresponsive. Convert themes now?</string>
+  <string name="theme_upgrade_request_title">Theme Conversion Required</string>
+  <string name="theme_upgrade_request_yes">OK</string>
   <string name="third_party_pickers_activity_title">Set %1$s</string>
   <string name="title_component">Mix</string>
   <string name="title_download_resource">Downloaded resources</string>

@@ -207,6 +207,7 @@
   <string name="storage_warning">External storage is not available or cannot be read</string>
   <string name="tab_category">Browse</string>
   <string name="tab_networkdisk">MiDrive</string>
+  <string name="tab_phone">Phone</string>
   <string name="tab_sd">SD card</string>
   <string name="toast_file_not_can_read">The file is unreadable.</string>
   <string name="trans_task">Network transfer</string>
