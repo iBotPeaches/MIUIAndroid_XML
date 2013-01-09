@@ -35,6 +35,7 @@
   <string name="button_retry">Retry</string>
   <string name="check_phone_error_title">Failed to enable sync service</string>
   <string name="check_phone_io_error">Network error</string>
+  <string name="checking_account">Verifying account...</string>
   <string name="completed">Finished</string>
   <string name="confirm">Confirm</string>
   <string name="data_keep_in_phone">Keep data on device</string>
@@ -198,6 +199,7 @@
   <string name="reg_by_email_failure">Registration failed: %1$s</string>
   <string name="reg_failed">Registration failed</string>
   <string name="remove_account_notice">What would you like to do with the previously synced Messages, Contacts, Call logs, and notes on your device?</string>
+  <string name="removing_account">Removing account...</string>
   <string name="send_sms_for_sync_notice">An activation SMS will be sent, continue?</string>
   <string name="send_sms_for_sync_title">Sync service not activated</string>
   <string name="sim_changed_notification_content">SIM card unactivated. Please reactivate</string>
