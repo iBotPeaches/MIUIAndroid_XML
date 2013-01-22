@@ -22,6 +22,7 @@
   <string name="aggregation_suggestion_join_dialog_title">Merge contacts</string>
   <string name="attach_photo_dialog_title">Contact photo</string>
   <string name="audio_chat">Audio chat</string>
+  <string name="auto_nickname">Auto</string>
   <string name="batch_delete_msg">"Delete the selected %d contacts? Contact info stored in the cloud will also be deleted."</string>
   <string formatted="false" name="blurbJoinContactDataWith">Select the contact you want to merge with %s.</string>
   <string name="caching_vcard_message">Importer is caching vCard(s) to local temporary storage. Actual import will start soon.</string>
@@ -521,6 +522,7 @@ To add a contact to your list of favorites:
   <string name="remind_btn_ignore">Ignore</string>
   <string name="remind_btn_sync_now">Sync Now</string>
   <string name="removePhoto">Remove photo</string>
+  <string name="restore_nickname">Restore</string>
   <string name="ringLabelsGroup">Ringtone</string>
   <string name="save_photo_progress">Saving Photo...</string>
   <string name="savingDisplayGroups">Saving display options...</string>
