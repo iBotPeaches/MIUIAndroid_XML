@@ -23,6 +23,7 @@
   <string name="attach_photo_dialog_title">Contact photo</string>
   <string name="audio_chat">Audio chat</string>
   <string name="auto_nickname">Auto</string>
+  <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete_msg">"Delete the selected %d contacts? Contact info stored in the cloud will also be deleted."</string>
   <string formatted="false" name="blurbJoinContactDataWith">Select the contact you want to merge with %s.</string>
   <string name="caching_vcard_message">Importer is caching vCard(s) to local temporary storage. Actual import will start soon.</string>
@@ -152,6 +153,7 @@
   <string name="create_group_item_label">[Create new group]</string>
   <string name="customLabelPickerTitle">Custom label name</string>
   <string name="custom_list_filter">Define custom view</string>
+  <string name="custom_nickname_hint">Enter title such as: Mr/Mrs</string>
   <string name="date_picker_label">Remind 3-days before and on the day of birthday</string>
   <string name="date_time_set">Set</string>
   <string name="date_year_toggle">Provide a year</string>
