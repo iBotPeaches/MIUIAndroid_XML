@@ -10,6 +10,7 @@
   <string name="albums">Albums</string>
   <string name="alert">Notice</string>
   <string name="alert_message_initial_cloud">The system will automatically upload old and new photos and screenshots only when there is a Wi-Fi connection.</string>
+  <string name="alert_message_open_sync">Sync is required, would you like to open sync now?</string>
   <string name="alert_message_sync_histoy_power_on">By default, history images are synchronized only when charging. You can use Setting menu to change the option.</string>
   <string name="all_album">All</string>
   <string name="all_albums_desc">Album(s)</string>
@@ -47,6 +48,7 @@
   <string name="click_import">Touch here to import</string>
   <string name="click_to_enter_camera">Open camera</string>
   <string name="close">Close</string>
+  <string name="cloud_album_set_create">New</string>
   <string name="cloud_albums">Cloud Albums</string>
   <string name="cloud_camera_display_name">Unsorted</string>
   <string name="cloud_gallery_no_pictures">No pictures found in MiCloud</string>
@@ -210,6 +212,7 @@
   <string name="more">More</string>
   <string name="move_cloud_data">Cloud gallery data has been moved to: %s</string>
   <string name="move_to_cloud_album">Move to Cloud</string>
+  <string name="move_to_cloud_folder">Move to Cloud</string>
   <string name="movie_view_label">Video player</string>
   <string name="multiface_crop_help">Touch a face to begin.</string>
   <string name="must_pick_file">Select an image</string>
@@ -231,9 +234,11 @@
   <string name="none_picture">No pictures found in Gallery</string>
   <string name="not_auto_create_recent_album">Not auto create recent album(s)</string>
   <string name="only_upload_in_charging">Images are uploaded only when charging; please connect your device to charger.</string>
+  <string name="open">Open Sync</string>
   <string name="open_map">Open map</string>
   <string name="open_single_image_failure">Failed to open image file!</string>
   <string name="open_sync">Sync Now</string>
+  <string name="open_sync_title">Sync required</string>
   <string name="operation_cancel">Cancel</string>
   <string name="operation_delete">Delete</string>
   <string name="operation_info">Details</string>
