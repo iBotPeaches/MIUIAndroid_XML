@@ -98,6 +98,9 @@
   <string name="login_failed">Login failed</string>
   <string name="login_notice">Logging in...</string>
   <string name="login_retry">Retry</string>
+  <string name="mibi_license_message">Xiaomi Mi Credit Service. By clicking OK you agree to comply with %1$s.</string>
+  <string name="mibi_license_message_span">Mi Credit User Agreement</string>
+  <string name="mibi_license_title">Mi Credit User agreement</string>
   <string name="micloud_about">" "</string>
   <string name="micloud_account">Xiaomi account</string>
   <string name="micloud_account_label">Account: %1$s</string>
