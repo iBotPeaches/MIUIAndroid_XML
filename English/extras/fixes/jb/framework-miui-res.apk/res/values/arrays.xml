@@ -5236,4 +5236,5 @@
         <item>@drawable/tab_unselected_pressed_holo_left</item>
         <item>@drawable/word_photo_bg</item>
     </array>
+    <array name="patchrom_component_name_map" />
 </resources>
