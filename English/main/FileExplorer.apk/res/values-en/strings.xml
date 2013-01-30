@@ -4,6 +4,7 @@
   <string name="adding_upload_tasks">Adding upload tasks.</string>
   <string name="app_name">File Explorer</string>
   <string name="background">Download in background</string>
+  <string name="binding_accout_title">Add existing kuaipan account</string>
   <string name="cancel">Cancel</string>
   <string name="category_all">All</string>
   <string name="category_apk">APKs</string>

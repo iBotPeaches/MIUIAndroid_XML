@@ -71,6 +71,8 @@
   <string name="error_unknown">Unknown error: %1$s</string>
   <string name="error_user_id_mismatch_summary">Please check your account details and try again</string>
   <string name="error_user_id_mismatch_title">Authentication error!</string>
+  <string name="error_verify_summary">App does not have permission to request the service</string>
+  <string name="error_verify_title">Permission Denied</string>
   <string name="failed_to_send_activate_email">Failed to send an activation E-mail</string>
   <string name="fee">%1$s Mi credits</string>
   <string name="filter_query">Filter query</string>
