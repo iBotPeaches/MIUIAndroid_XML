@@ -4,7 +4,12 @@
   <string name="adding_upload_tasks">Adding upload tasks.</string>
   <string name="app_name">File Explorer</string>
   <string name="background">Download in background</string>
-  <string name="binding_accout_title">Add existing kuaipan account</string>
+  <string name="bind_account">Bind to KuaiPan account</string>
+  <string name="bind_account_summary">If you already have a KuaiPan account you can add it to retrieve your personal data</string>
+  <string name="binded_accout_description">Accounts are merged, use either your Xiaomi account or KuaiPan account to login, both can read your data</string>
+  <string name="binded_accout_title">KuaiPan account</string>
+  <string name="binded_accout_warning">Warning: This operation is not reversible, do you wish to continue?</string>
+  <string name="binding_accout_title">Add existing KuaiPan account</string>
   <string name="cancel">Cancel</string>
   <string name="category_all">All</string>
   <string name="category_apk">APKs</string>
@@ -110,6 +115,7 @@
   <string name="guide_senior_tech">Senior Techniques</string>
   <string name="instruction">Enter the following address into your FTP Client:</string>
   <string name="instruction_pre">Start service to enable FTP server</string>
+  <string name="kingsoft_account">Kingsoft KuaiPan account</string>
   <string name="kuaipan_over_space">Your MiDrive has no space left.</string>
   <string name="kuaipan_prompt">MiDrive Help</string>
   <string name="kuaipan_prompt_message">"The server is currently unavailable, please try again later"</string>
@@ -120,6 +126,7 @@
   <string name="local_cache">Local cache</string>
   <string name="local_cache_size">Local cache size: %s</string>
   <string name="login_reg_content">MiDrive helps you store files and sync them between multiple devices.</string>
+  <string name="login_reg_content0">KuaiPan is your Cloud drive</string>
   <string name="login_reg_login_xiaomi">Login to Xiaomi account</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Search</string>
