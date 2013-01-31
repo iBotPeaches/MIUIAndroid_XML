@@ -146,6 +146,15 @@
   <string name="password_hint_text">6~16 chars</string>
   <string name="pay_record">Payment history</string>
   <string name="pay_record_empty">No payment history</string>
+  <string name="paytool_alipay">Alipay</string>
+  <string name="paytool_edit_hint">Recharge amount (RMB):</string>
+  <string name="paytool_edit_limit">Less than %1$s</string>
+  <string name="paytool_error_denomination">Please enter the correct top-up amount</string>
+  <string name="paytool_error_install">%1$s mobile security plugin installation failed</string>
+  <string name="paytool_error_msp">%1$s top-up failed!</string>
+  <string name="paytool_msp_not_installed">You have not installed %1$s mobile security plugin, install it now?</string>
+  <string name="paytool_picker_hint">Mi Credit top-up amount</string>
+  <string name="paytool_tenpay">Tenpay</string>
   <string name="prepaid_china_mobile">China Mobile</string>
   <string name="prepaid_china_telcom">China Telecom</string>
   <string name="prepaid_china_unicom">China Unicom</string>
@@ -178,6 +187,8 @@
   <string name="progress_error_title">Topup failed</string>
   <string name="progress_error_waiting">Still not updated, please try again later!</string>
   <string name="progress_loading">Processing, please wait...</string>
+  <string name="progress_paytool_creating">Generating %1$s order...</string>
+  <string name="progress_paytool_installing">Installing %1$s mobile security plugin...</string>
   <string name="progress_prepaid_creating">Generating topup order...</string>
   <string name="progress_querying">Processing payment query…</string>
   <string name="progress_submit_hint">Expected in approx 3 minutes</string>
@@ -201,6 +212,8 @@
   <string name="recharge_prepaid_title">Prepaid topup cards</string>
   <string name="recharge_record">Topup History</string>
   <string name="recharge_record_empty">No topup history</string>
+  <string name="recharge_tenpay_summary">Tenpay top-up Support</string>
+  <string name="recharge_tenpay_title">Tenpay</string>
   <string name="reg_by_email_failure">Registration failed: %1$s</string>
   <string name="reg_failed">Registration failed</string>
   <string name="remove_account_notice">What would you like to do with the previously synced Messages, Contacts, Call logs, and notes on your device?</string>
@@ -235,6 +248,7 @@
   <string name="title_mili_center">Mi credits centre</string>
   <string name="title_pay_record">%1$s payment history items</string>
   <string name="title_payment">Xiaomi mobile payments</string>
+  <string name="title_paytool">Top-up via %1$s</string>
   <string name="title_prepaid">Topup via card</string>
   <string name="title_recharge">Topup Mi credits</string>
   <string name="title_recharge_record">Topup history</string>
