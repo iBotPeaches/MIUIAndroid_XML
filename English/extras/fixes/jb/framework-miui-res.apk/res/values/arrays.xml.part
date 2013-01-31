@@ -9,14 +9,14 @@
     <item>"Play"</item> 
     <item>"vodafone UK"</item> 
     <item>"VENTELO "</item> 
-    <item>"O2 - UK"</item> 
+    <item>"O2-UK"</item> 
     <item>"T-Mobile H"</item> 
     <item>"O2-DE"</item> 
     <item>"Telenor"</item> 
     <item>"I WIND"</item> 
     <item>"I TIM"</item> 
     <item>"NL KPN"</item> 
-    <item>"O2 - IRL"</item> 
+    <item>"O2-IRL"</item> 
     <item>"vodafone IT"</item> 
     <item>"Cellcom"</item> 
     <item>"vodafone AU"</item> 
@@ -5118,73 +5118,6 @@
     <item>40466</item> 
     <item>45502</item> 	
   </string-array>
-  <array name="config_virtualKeyUpPattern" />
-  <string-array name="alphabet_table">
-    <item>\#</item>
-    <item>A</item>
-    <item>B</item>
-    <item>C</item>
-    <item>D</item>
-    <item>E</item>
-    <item>F</item>
-    <item>G</item>
-    <item>H</item>
-    <item>I</item>
-    <item>J</item>
-    <item>K</item>
-    <item>L</item>
-    <item>M</item>
-    <item>N</item>
-    <item>O</item>
-    <item>P</item>
-    <item>Q</item>
-    <item>R</item>
-    <item>S</item>
-    <item>T</item>
-    <item>U</item>
-    <item>V</item>
-    <item>W</item>
-    <item>X</item>
-    <item>Y</item>
-    <item>Z</item>
-  </string-array>
-  <item type="array" name="android_config_virtualKeyVibePattern">@*android:array/config_virtualKeyVibePattern</item>
-  <item type="array" name="android_config_mobile_hotspot_provision_app">@*android:array/config_mobile_hotspot_provision_app</item>
-  <item type="array" name="android_common_nicknames">@*android:array/common_nicknames</item>
-  <item type="array" name="android_config_longPressVibePattern">@*android:array/config_longPressVibePattern</item>
-  <item type="array" name="android_config_keyboardTapVibePattern">@*android:array/config_keyboardTapVibePattern</item>
-  <integer-array name="detailed_am_pm_segments">
-    <item>0</item>
-    <item>1</item>
-    <item>6</item>
-    <item>12</item>
-    <item>13</item>
-    <item>18</item>
-    <item>19</item>
-  </integer-array>
-  <string-array name="detailed_am_pm_names">
-    <item>AM</item>
-    <item>AM</item>
-    <item>AM</item>
-    <item>PM</item>
-    <item>PM</item>
-    <item>PM</item>
-    <item>PM</item>
-  </string-array>
-  <item type="array" name="android_special_locale_codes">@*android:array/special_locale_codes</item>
-  <item type="array" name="android_special_locale_names">@*android:array/special_locale_names</item>
-  <array name="number_progress_numbers">
-        <item>@drawable/APKTOOL_DUMMY_029a</item>
-        <item>@drawable/APKTOOL_DUMMY_029b</item>
-        <item>@drawable/APKTOOL_DUMMY_029c</item>
-        <item>@drawable/APKTOOL_DUMMY_029d</item>
-        <item>@drawable/APKTOOL_DUMMY_029e</item>
-        <item>@drawable/APKTOOL_DUMMY_029f</item>
-        <item>@drawable/APKTOOL_DUMMY_02a0</item>
-        <item>@drawable/APKTOOL_DUMMY_02a1</item>
-        <item>@drawable/APKTOOL_DUMMY_02a2</item>
-        <item>@drawable/APKTOOL_DUMMY_02a3</item>
-  </array>
   <string-array name="supported_locale">
     <item>zh_CN</item>
     <item>zh_TW</item>
@@ -5212,28 +5145,4 @@
     <item>cs_CZ</item>
     <item>fr_FR</item>
   </string-array>
-    <array name="preloaded_drawables">
-        <item>@drawable/rounded_corner_top_right</item>
-        <item>@drawable/rounded_corner_top_left</item>
-        <item>@drawable/rounded_corner_bottom_right</item>
-        <item>@drawable/rounded_corner_bottom_left</item>
-        <item>@drawable/ab_home_up</item>
-        <item>@drawable/ab_home_up_divider</item>
-        <item>@drawable/tab_indicator_ab_holo_right</item>
-        <item>@drawable/tab_selected_holo</item>
-        <item>@drawable/tab_selected_pressed_holo</item>
-        <item>@drawable/tab_unselected_pressed_holo</item>
-        <item>@drawable/tab_indicator_ab_holo_left</item>
-        <item>@drawable/tab_unselected_holo</item>
-        <item>@drawable/tab_unselected_holo_left</item>
-        <item>@drawable/tab_selected_pressed_holo_left</item>
-        <item>@drawable/tab_selected_holo_left</item>
-        <item>@drawable/tab_unselected_pressed_holo_right</item>
-        <item>@drawable/tab_indicator_ab_holo</item>
-        <item>@drawable/tab_unselected_holo_right</item>
-        <item>@drawable/tab_selected_pressed_holo_right</item>
-        <item>@drawable/tab_selected_holo_right</item>
-        <item>@drawable/tab_unselected_pressed_holo_left</item>
-        <item>@drawable/word_photo_bg</item>
-    </array>
 </resources>
